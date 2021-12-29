@@ -186,12 +186,12 @@ export const SidebarData = [
       {
         title: "Karštieji gėrimai",
         path: "/drinksMenu/Karštieji gėrimai",
-        icon: <IoIcons.IoIosPaper />,
+        icon: <GiIcons.GiCoffeeMug />,
       },
       {
         title: "Šaltieji gėrimai",
         path: "/drinksMenu/Šaltieji gėrimai",
-        icon: <IoIcons.IoIosPaper />,
+        icon: <FaIcons.FaCocktail />,
       },
     ],
   },

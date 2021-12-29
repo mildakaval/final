@@ -10,8 +10,11 @@ import { DrinksMenu } from "./pages/DrinksMenu";
 import Health from "./pages/Health";
 import Join from "./pages/Join";
 import Contacts from "./pages/Contacts";
+import {AppContext} from './components/context/Context';
+import Footer from './components/footer/Footer';
 function App() {
   return (
+    <AppContext>
     <Router>
       <Sidebar />
       <Routes>
@@ -22,7 +25,11 @@ function App() {
         <Route path="/join" exact component={Join} />
         <Route path="/contacts" exact component={Contacts} />
       </Routes>
+      <AboutUs />
+      <Countrys />
+      <Footer />
     </Router>
+    </AppContext>
   );
 }
   
