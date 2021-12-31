@@ -7,7 +7,7 @@ export const AboutUs = () => {
 
    
     <img 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxxIpSisopTu7XA4AC3YDP0QPt0sd5T-qfjw&usqp=CAU"
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZkx4Wjo0mzXmI0Qt-aPZb2Fh7bB0jDKoag&usqp=CAU"
     
     />
    </div>
