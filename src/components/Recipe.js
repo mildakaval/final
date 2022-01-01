@@ -1080,6 +1080,872 @@ this.state = {
         "instructions": "Puode išmaišykite kukurūzų miltus su kava. Supilkite 1/2 stiklinės cukraus ir maišydami kaitinkite, kol išbrinks. Suberkite razinas, smulkintus riešutus ir nukaiskite nuo viryklės. Išmaišykite sviestą iki purios konsistencijos. Suberkite rudąjį cukrų, likusį baltąjį cukrų ir toliau maišykite, kol masė bus vientisa, šviesi. Įmaišykite sodą, užpilkite pienu. Supilkite vanilės ekstraktą ir gerai išmaišykite, šią masę supilkite į tešlą. Supilkite pusę tešlos į sviestu išteptą kvadratinę kepimo skardą.nUžberkite razinų masės, ant viršaus užpilkite likusią tešlą. Kepkite 180 laipsnių orkaitėje 40 min. Kai iškeps, palaukite, kol atvės, tada supjaustykite.",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsin2RyU_79S4NRU3DX99CwbVkm3hP0f1D7Q&usqp=CAU"
     },
+    {
+        "id": "61" ,
+        "title": "Raugintų kopūstų troškinys" ,
+        "country": "Lenkija" ,
+        "ingredients": [
+            "Rauginti kopūstai 600 g",
+            "Baltagūžiai kopūstai 400 g",
+            "Svogūnas 2 vnt",
+            "Kiauliena 200 g",
+            "Rūkytos dešrelės 200 g",
+            "Pomidorų padažas 3 šaukštai",
+            "Morkos 2 vnt.",
+            "Česnakai 4 skiltelės",
+            "Džiovintos slyvos 1 sauja",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Kmynai 2 šaukšteliai",
+            "Mėsos sultinys 0.5 stiklinės"
+        ],
+        "instructions": "Kiaulieną smulkiai supjaustykite ir apkepkite aliejuje. Suberkite smulkiai pjaustytus svogūnus, česnakus ir morkas. Kepkite kol daržovės suminkštės. Suberkite į puodą, įdėkite raugintų kopūstų, įpilkite sultinio. Troškinkite kelias minutes. Įdėkite tarkuoto kopūsto, pomidorų padažo ir pjaustytas rūkytas dešreles. Suberkite prieskonius ir išmirkytas ir supjaustytas džiovintas slyvas. Uždenkite ir troškinkite ant mažos ugnies apie 20-30 minučių.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJE4hj62LPkGqwIPecP-EqSMG8w7QinxNNA&usqp=CAU"
+    },
+    {
+        "id": "62" ,
+        "title": "Lenkiški virtinukai TINGINIUKAI" ,
+        "country": "Lenkija" ,
+        "ingredients": [
+            "Bulvės 300 g",
+            "Varškė 200 g",
+            "Kiaušiniai 2 vnt.",
+            "Miltai 5 šaukštai",
+            "Pienas 50 ml",
+            "Druska pagal skonį"
+        ],
+        "instructions": "Virtas bulves gerai sutrinkite su pienu. Sudėkite varškę, įmuškite kiaušinius, įberkite druskos, miltų ir gerai išminkykite. Nulipdykite ilgas, nykščio storumo juostas ir jas supjaustykite 1,5-2 cm pločio gabaliukais. Atsargiai sudėkite į pasūdytą verdantį vandenį ir kai iškils į paviršių, virkite dar 2 minutes. Patiekite su tirpintu sviestu.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCucEaeCtOsI0okODJ9VW0e2-ig3H39eLQg&usqp=CAU"
+    },
+    {
+        "id": "63" ,
+        "title": "Greitai marinuoti svogūnai" ,
+        "country": "Lenkija" ,
+        "ingredients": [
+            "Rausvieji svogūnai (arba paprastų svogūnų) 600 g",
+            "Citrinos 2 vnt.",
+            "Obuolių acto 1 šaukštas",
+            "Alyvuogių aliejus 60 ml",
+            "Druska 1 šaukštelis"
+        ],
+        "instructions": "Svogūnus supjaustykite pusžiedžiais ir išskirstykite. Sudėkite į sandariai uždaromą indą. Citrinas supjaustykite stambiomis riekelėmis, užspauskite sultis ant svogūnų, citrinas sudėkite kartu. Pilkite aliejų, actą, berkite druskos. Indelį uždarykite, papurtykite ir kelioms valandoms dėkite į šaldytuvą. Prieš patiekiant išimkite citrinas.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZcSu0gkTjSvB4u8ZnbsM0KyYyH2Np1Yrb8w&usqp=CAU"
+    },  {
+        "id": "64" ,
+        "title": "Mazurek" ,
+        "country": "Lenkija" ,
+        "ingredients": [
+            "Miltai 1.5 stiklinės",
+            "Cukrus 1 stiklinė",
+            "Sviestas 100 g",
+            "Kiaušinių tryniai 5 vnt.",
+            "Vanilinis cukrus 1 šaukštas",
+            "Druska žiupsnelis",
+            "Citrinos žievelė žiupsnelis"
+        ],
+        "instructions": "Giliame inde sumaišykite stiklinę cukraus, 100 g minkšto sviesto ir 5 kiaušinio trynius, pridėkite 1 šaukštą vanilinio cukraus, žiupsnelį druskos ir pusės citrinos nutarkuotą žievelę. Viską gerai išmaišykite ir pamažu suberkite pusantros stiklinės miltų. Jeigu reikia, miltų galima dėti ir daugiau, nes tešla turi būti gana standi. Tešlą plonai iškočiokite ir kepkite iki 180 laipsnių įkaitintoje orkaitėje 25 min.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBnTTNcQ6Ai2GL7B2yx0IL1AE8T95dX-ZyQ&usqp=CAU"
+    },
+    {
+        "id": "65" ,
+        "title": "Cepelinai su grybais žemaitiškai" ,
+        "country": "Lietuva" ,
+        "ingredients": [
+            "Bulvės 1 kg",
+            "Grybai 1 puodelis",
+            "Rūkyti lašiniai 150 g",
+            "Svogūnai 1 vnt.",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Kiaušiniai 1 vnt.",
+            "Pienas 300 ml",
+            "Batonas 3 riekelės"
+        ],
+        "instructions": "Pirma pasiruoškite įdarą. Grybus apvirkite 200 ml pieno. Likusiu pienu užpilkite batono riekeles. Išvirtus grybus smulkiai supjaustykite ir apkepkite su smulkiai pjaustytu svogūnu ir lašinukais. Į atvėsusį įdarą sudėkite išmirkusį batoną (nusunkite pieną prieš dedant), pipirų, druskos ir įmuškite kiaušinį. Gerai išmaišykite. Bulves nulupkite. Dvi dalis sutarkuokite ir išspauskite, vieną dalį - išvirkite ir sugrūskite. Sumaišykite sutarkuotas žalias bulves su karštomis sugrūstomis. Padarykite nestorus blynelius, į vidų dėkite įdaro, kraštus užspauskite ir dėkite į pasūdytą verdantį vandenį. Į vandenį galite įdėti šaukštą krakmolo, taip cepelinai tikrai nesuirs. Virkite cepelinus apie 20 minučių.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3P5scxcFxXw2Ye-WCl7e1ZhQFU4yRX1VMg&usqp=CAU"
+    },
+    {
+        "id": "66" ,
+        "title": "Džiovintais vaisiais įdarytas veršienos kumpis" ,
+        "country": "Lietuva" ,
+        "ingredients": [
+            "Veršienos kumpis 1.5 kg",
+            "Džiovinti abrikosai 200 g",
+            "Džiovintos slyvos 300 g",
+            "Prieskoniai mėsai 30 g",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį"
+        ],
+        "instructions": "Veršienos kumpį nuplauti, išpjauti visas plėves, lengvai pamušti ir įtrinti prieskoniais. Dalį veršienos sumalti. Džiovintus vaisius nuplauti, išmirkyti ir sumaišyti su malta mėsa. Šią masę dėti ant išmušto kumpio, suvynioti į kepimo plėvelę ir kepti orkaitėje apie 2 valandas.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyfCZSTvuBfxHjdahSulmrybZqNXmlMVBOeQ&usqp=CAU"
+    },
+    {
+        "id": "67" ,
+        "title": "Silkė su spanguolėmis ir riešutais" ,
+        "country": "Lietuva" ,
+        "ingredients": [
+            "Silkės filė 500 g",
+            "Morkos 2 vnt.",
+            "Svogūnas 2 vnt",
+            "Pomidorų padažas aštrus 1 stiklinė",
+            "Džiovintos spanguolės 1 šaukštas",
+            "Riešutai smulkinti 1 šaukštas",
+            "Aliejus kepimui 2 šaukštai"
+        ],
+        "instructions": "Pirmiausia supjaustykite svogūnus, sutarkuokite morkas ir apkepkite aliejuje, pilkite pomidorų padažą, berkite spanguoles ir viską patroškinkite. Bebaigiant apibarstykite troškinį riešutais. Jam ataušus, maišykite sluoksniais su silke.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4GNmWdXwA1Z7pvgdc2O13aSuYYTIbeyVFA&usqp=CAU"
+    },
+    {
+        "id": "68" ,
+        "title": "Šokoladinis pyragas puodelyje" ,
+        "country": "Lietuva" ,
+        "ingredients": [
+            "Miltai 6 šaukštai",
+            "Cukrus 6 šaukštai",
+            "Vanilinis cukrus 1 šaukštelis",
+            "Kakava 2 šaukštai",
+            "Kepimo milteliai 1 šaukštelis",
+            "Pienas 6 šaukštai",
+            "Aliejus 6 šaukštai",
+            "Kiaušiniai 1 vnt."
+        ],
+        "instructions": "Atskirai sumaišykite visus sausus produktus (miltus, kakavą, cukrų, vanilinį cukrų, kepimo miltelius) ir visus skystus (pieną, kiaušinį, aliejų). Tuomet į skystus produktus suberkite sausus ir viską kruopščiai išmaišius supilkite į puodelius. Nereikėtų pilti per daug, nes pyragas iškyla. Kepti 4 minutes mikrobangų krosnelėje.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O403bogg4aH6J008IQpGOijADNvaDbsDCw&usqp=CAU"
+    },
+    {
+        "id": "69" ,
+        "title": "Meksikietiška vištiena" ,
+        "country": "Meksika" ,
+        "ingredients": [
+            "Česnakai 4 skiltelės",
+            "Ghi sviestas 1 šaukštas",
+            "Svogūnas 1 vnt",
+            "Pomidorai 3 vnt.",
+            "Vištiena (tinka visos dalys) 1 kg",
+            "Druska 1 šaukštelis",
+            "Kukurūzai 1 indelis",
+            "Saldaus pieno sūris – panyras riekelės"
+        ],
+        "instructions": "Smulkintą česnaką ir svogūną pakepinkite ghi svieste. Sudėkite smulkintus pomidorus, druską, pipirus, užpilkite šlakelį vandens, patroškinkite minutėlę, o po to sutrinkite viską iki vientisos konsistencijos. Vištieną išdėliokite kepimo skardoje, užpilkite paruoštu padažu, ant viršaus suberkite kukurūzus ir galiausiai viską pabarstykite sutarkuotu panyru. Kepkite 180 laipsnių orkaitėje apie 30 min.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yxZgODwn_zfwvmng7xC89L-sPXkkqVfeog&usqp=CAU"
+    },
+    {
+        "id": "70" ,
+        "title": "Kesadilija (Quasadilla)su vištiena" ,
+        "country": "Meksika" ,
+        "ingredients": [
+            "Vištienos filė 2 vnt.",
+            "FAJITA prieskonių mišinys 1 pakelis",
+            "Svogūnas 3 vnt",
+            "Tortilijos 1 pakelis",
+            "Sūris 400 g",
+            "TACO švelnaus padažas pagal skonį",
+            "Kalendros pagal skonį",
+            "Aliejus 2 šaukštai",
+            "Salotos 150 g"
+        ],
+        "instructions": "Pakepkite vištieną keptuvėje ir pagardinkite FAJITA prieskonių mišiniu, kol vištiena gražiai paruduos ir iškeps. Supjaustykite vištieną plonomis juostelėmis ir sudėkite ant TACO padažu apšlakstytų, susmulkintomis kalendromis, svogūnais ir tarkuotu sūriu apibarstytų tortilijų. Perlenkite kiekvieną tortiliją pusiau ir apkepkite virš vidutinės ugnies iš abiejų pusių, kol išsilydys sūris, o tortilijos įgys gražią auksinę spalvą. Perpjaukite kiekvieną kesadiliją pusiau ir sudėkite į padėklą. Patiekite su šviežiomis salotomis ir gvakamolės padažu.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10JBNF9oJ7oi33MiRzzoetK7AFdXWiCL6lw&usqp=CAU"
+    },
+    {
+        "id": "71" ,
+        "title": "Nachos kukurūzų traškučių užkandis" ,
+        "country": "Meksika" ,
+        "ingredients": [
+            "Jautienos faršas 400 g",
+            "Nachos traškučiai 1 pakelis",
+            "Burrito prieskonių mišinys 1 pakelis",
+            "Saldžiosios geltonosios paprikos 1 vnt.",
+            "Saldžiosios raudonosios paprikos 1 vnt.",
+            "Konservuoti kukurūzai 100 g",
+            "Konservuotos Jelapeno aitiriosios paprikos 100 g",
+            "Čederio sūris 100 g",
+            "Kalendrospagal skonį",
+            "Švelnus Taco padažas 5 g",
+            "Grietinė pagal skonį"
+        ],
+        "instructions": "Į įkaitintą aliejų dedame jautienos faršą ir apkepame nuolat maišant. Suberiame prieskonių mišinį, viską sumaišome ir paliekame keletui minučių pasitroškinti. Ant skardos, išklotos folija, išdėliojame Nachos traškučius, ant viršaus dedame paruoštą faršą, supjaustytą papriką, Jalapeno pipirus, kukurūzus, užbarstome sūriu ir kepame orkaitėje 175 laipsnių temperatūroje apie 5 minutes. Prieš patiekiant ant viršaus dedame grietinės ir Taco padažo. Pabarstome susmulkinta šviežia kalendra.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT56agXL8lQZHsTnAsGpZgd0Efrur1uLDcTXg&usqp=CAU"
+    },
+    {
+        "id": "72" ,
+        "title": "Sūrio kremo ir ananasų salsos pyragas" ,
+        "country": "Meksika" ,
+        "ingredients": [
+            "Obuoliai 1 vnt.",
+            "Kriaušės 1 vnt.",
+            "Cukrus 100 g",
+            "PINEAPLLE SALSA padažas 150 g",
+            "Maskarponės sūris 500 g",
+            "Miltai 60 g",
+            "Kiaušiniai 4 vnt.",
+            "Tortilijos 3 vnt.",
+            "Farin cukrus pagal skonį"
+        ],
+        "instructions": "Išplakite kiaušinius su cukrumi, įdėkite maskarponės ir ananasų salsos padažo, galiausiai įdėkite miltų. Sudėkite 2 tortilijas taip, kad uždengtumėte kepimo indo kraštus, supilkite pusę kreminio mišinio, uždėkite vieną tortiliją kaip vidurinį sluoksnį ir supilkite likusį kreminį mišinį. Galiausiai sudėkite obuolio ir kriaušės griežinėlius ir pabarstykite Farin cukraus. Kepkite 60 minučių iki 155 °C įkaitintoje orkaitėje. Palaukite apie 3–4 valandas, kol pyragas atvės, ir tada patiekite.",
+        "imageUrl": "https://static.wixstatic.com/media/d875bb_5c8c7fc27a76433f9bd9f67dbffe2498~mv2.png"
+    },
+    {
+        "id": "73" ,
+        "title": "Bulvių ir jūros gėrybių salotos" ,
+        "country": "Norvegija" ,
+        "ingredients": [
+            "Bulvės 4 vnt.",
+            "Cukinijos 1 vnt.",
+            "Konservuoti žirneliai 1 stiklinė",
+            "Krevetės 2 saujos",
+            "Ikrai 2 šaukštai",
+            "Laiškiniai česnakai 1 sauja",
+            "Krapai 1 sauja",
+            "Grietinė 4 šaukštai",
+            "Majonezas 2 šaukštai",
+            "Citrinų sultys pagal skonį",
+            "Tabasko padažas šlakelis",
+            "Druska pagal skonį",
+            "Juodieji malti pipirai pagal skonį"
+        ],
+        "instructions": "Bulves išverdame su lupena, atšaldome, nulupame ir supjaustome kubeliais. Cukinijos lupti nereikia, tiesiog supjaustome kubeliais. Visus salotų ingredientus sumaišome bei dedame į indą kuriame patieksime. Padažo ingredientus taip pat sumaišome ir patiekiame atskirai.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLroWtEG0MOCkNkgyz2Y3gb4rdDScw2AFsxg&usqp=CAU"
+    },
+    {
+        "id": "74" ,
+        "title": "Velniažuvė su artišokų piurė ir voveraitėmis" ,
+        "country": "Norvegija" ,
+        "ingredients": [
+            "Velniažuvės filė 600 g",
+            "Lašinukai 40 g",
+            "Artišokai 200 g",
+            "Citrinos 1 vnt.",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Pienas 40 ml",
+            "Grietinėlė 38% proc. 30 ml",
+            "Voveraitės 200 g",
+            "Sviestas gabaliukas",
+            "Špinatai 100 g",
+            "Dilgėlės 30 g",
+            "Česnakai 1 skiltelė",
+            "Parmezano sūris 10 g",
+            "Alyvuogių aliejus 50 ml"
+        ],
+        "instructions": "Velniažuvę apdėliokite plonomis lašinukų riekelėmis, dėkite į kepimo skardą ir kepkite 45 laipsnių orkaitėje maždaug 3 valandas. Artišokus nuvalykite ir patroškinkite pieno - grietinėlės mišinyje, kol suminkštės. Tada suplakite plaktuvu iki piurė, pagardinkite citrinos sultimis ir druska. Voveraites iškepkite svieste, pagardinkite druska. Špinatus ir dilgėles trumpai apvirkite, perliekite šaltu vandeniu ir suplakite plaktuvu. Pagardinkite druska ir citrinos sultimis.",
+        "imageUrl": "https://g1.dcdn.lt/images/pix/1200x470/4j3mtm-EOWY/velniazuve-su-artisoku-piure-ir-voveraitemis-64445160.jpg"
+    },
+    {
+        "id": "75" ,
+        "title": "Lašiša pagal norvegus" ,
+        "country": "Norvegija" ,
+        "ingredients": [
+            "Lašiša 600 g",
+            "Vanduo 4 l",
+            "Lauro lapai 2 vnt.",
+            "Citrinos 1 vnt.",
+            "Pipirai šaukštelis",
+            "Druska pagal skonį",
+            "Svogūnai 2 vnt.",
+            "Baltas sausas vynas šlakelis",
+            "Grietinėlė šaukštas",
+            "Sviestas 250 g",
+            "Krapai sauja"
+        ],
+        "instructions": "Užvirkite vandenį su prieskoniais, nukelkite nuo ugnies ir sudėkite į vandenį žuvį. Taip ją palaikykite 15-20 minučių. Kai lašiša taps tamsiai rausvos spalvos, ją galima ištraukti. Supjaustytą svogūną šiek tiek pakepinkite ir supilkite vyną, šiek tiek pavirkite, po truputį sudėkite sviestą, prieskonius ir pačioje pabaigoje žalumynus.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbtg5UG-sTfoj4rhHzrcJVFgh2uTpGlT-MA&usqp=CAU"
+    },
+    {
+        "id": "76" ,
+        "title": "Brownie pyragas (norvegiškas)" ,
+        "country": "Norvegija" ,
+        "ingredients": [
+            "Vanilinis cukrus 8 šaukšteliai",
+            "Kiaušiniai 8 vnt.",
+            "Cukrus 200 g",
+            "Kvietiniai miltai 6 stiklinės",
+            "Kakava 12 šaukštų",
+            "Druska 1 šaukštelis",
+            "Margarinas 400 g"
+        ],
+        "instructions": "Viską sumaišome ir supilame į kepimo formą. Kepame 175 laiplsnių orkaitėje apie 45min.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHr9-3I1yHPoHXLOOpcdq1tmEB-AvcoJShA&usqp=CAU"
+    },
+    {
+        "id": "77" ,
+        "title": "Midijos prie vyno",
+        "country": "Portugalija" ,
+        "ingredients": [
+            "Midijos konservuotos 200 g",
+            "Medus 2 šaukšteliai",
+            "Garstyčios klasikinės 2 šaukšteliai",
+            "Citrinos sultys 1 vnt.",
+            "Krapai žiupsnelis"
+        ],
+        "instructions": "Midijas iš karto sudėti porcijomis į indelius. Garstyčias, medų ir citrinos sultis gerai išmaišyti. Užpilu aplieti midijas, pabarstyti smulkintais krapais.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKnWxXj8lYyKhjEY3zh9sn3oEUv4XbFfIsFw&usqp=CAU"
+    },
+    {
+        "id": "78" ,
+        "title": "Keptas jūrų ešerys" ,
+        "country": "Portugalija" ,
+        "ingredients": [
+            "Ešerys 2 vnt.",
+            "Bulvės 8 vnt.",
+            "Pomidorai(slyviniai) 8 vnt. ",
+            "Svogūnai 1 vnt.",
+            "Česnakai 2 skiltelės",
+            "Saldžiosios paprikos milteliai 2 šaukšteliai",
+            "Alyvuogių aliejus 2 šaukštai",
+            "Druska pagal skonį",
+            "Juodieji pipirai pagal skonį",
+            "Petražolės 1 žiupsnelis"
+        ],
+        "instructions": " Bulves apvirkite vandenyje. Pomidorus ir bulves supjaustykit per pusę, svogūnus ir česnakus susmulkinkite. Įkaitinkite orkaitę iki 200C laipsnių temperatūros. Kepimo indą ištepkite aliejumi, klokite bulves, pomidorus, apibarstykite svogūnais su česnaku, sudėkite ant viršaus žuvis, tada ant visko užberkite druskos, pipirų, raudonosios paprikos miltelių ir smulkintų petražolių. Užklokite kepinį aliuminio folija ir pašaukite į orkaitę. Kepkite apie 30-35 minutes, kol žuvis bus trapi, o bulvės minkštos.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUM5TCxRv_Pje2NX9a-PRTecYxs9-sPAlCkA&usqp=CAU"
+    },
+    {
+        "id": "79" ,
+        "title": "Virtos strimėlės su svogūnais ir pomidorais" ,
+        "country": "Portugalija" ,
+        "ingredients": [
+            "Strimėlės 1 kg",
+            "Rupi jūros druska 200 g",
+            "Svogūnas 4 vnt",
+            "Pomidorai 4 vnt",
+            "Balto vyno actas",
+            "Alyvuogių aliejaus",
+        ],
+        "instructions": "Strimėles išdarinėkite, nupjaukite galvas ir gerai pasūdę palaikykite parą šaldytuve. Kitą dieną po tekančiu vandeniu nuplaukite druską, sudėkite virti, pavirkite 5 minutes, išėmę nulupkite odą. Strimėles sudėkite į lėkštę, ant viršaus – griežinėliais supjaustytus svogūnus ir pomidorus. Pašlakstykite patiekalą actu bei aliejumi ir patiekite su baltuoju arba rožiniu sausu vynu, arba baltuoju vinho verde (jaunu vynu).",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMzS42guDK5uALnClBmtwWoIamdXSn--wbA&usqp=CAU"
+    },
+    {
+        "id": "80" ,
+        "title": "Migdolų pyragas" ,
+        "country": "Portugalija" ,
+        "ingredients": [
+            "Miltai 1 puodelis",
+            "Cukrus 1 puodelis",
+            "Kepimo milteliai 1 šaukštelis",
+            "Soda 1 šaukštelis",
+            "Kiaušiniai 1 vnt",
+            "Druska žiupsnelis",
+            "Pasukos 1 puodelis",
+            "Vanilės ekstraktas 1 šaukštelis",
+            "Ištirpintas sviestas 1 puodelis",
+            "Migdolai smulkinti 1 puodelis",
+            "Vanduo 6 šaukštai",
+            "Migdolų esencija šaukštelis"
+        ],
+        "instructions": "Įkaitinkite orkaitę iki 180° C. Dubenyje sumaišykite miltus, cukrų, kepimo miltelius, sodą ir druską. Išplakite kiaušinius ir sumaišykite su pasukomis. Įlašinkite vanilės ekstrakto, supilkite atvėsusį sviestą ir išmaišykite. Supilkite į miltų mišinį ir užmaišykite tešlą. Tešlą supilkite į riebalais išteptą kepimo formą ir kepkite maždaug 35 minutes. Migdolų sirupui sumaišykite vandenį su cukrumi ir pavirkite, kol pradės tirštėti, nuimkite nuo ugnies, supilkite migdolų ekstraktą. Pyragą išimkite, apibarstykite maltais migdolais ir visą pyragą apipilkite karštu migdolų sirupu, kad gerai įsigertų. Kiškite į orkaitę ir dar pakepkite 10 min, kol migdolai gražiai apskrus.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBkOnIKizEJYfipUeKHgpy6bPPsHkbj2p-A&usqp=CAU"
+    },
+    {
+        "id": "81" ,
+        "title": "Svogūnų sriuba" ,
+        "country": "Prancūzija" ,
+        "ingredients": [
+            "Sviestas 50 g",
+            "Čiobrelių šakelės 2 vnt.",
+            "Svogūnas 600 g",
+            "Lauro lapai 1 vnt.",
+            "Pipirai 0.25 šaukštelio",
+            "Druska 1 šaukštelis",
+            "Baltas vynas 150 ml",
+            "Česnakai 2 skiltelės",
+            "Jautienos sultinys 1 l",
+            "Miltai 1 šaukštas",
+            "Prancūziškas batonas 0.5 vnt.",
+            "Tarkuotas ementalio sūris 150 g",
+            "Rozmarinai 1 šaukštelis"
+        ],
+        "instructions": "Svogūnus nulupkite ir susmulkinkite. Puode išlydykite sviestą ir pakepinkite svogūnus apie 20 minučių, kol šie suminkštės ir karamelizuosis. Įspauskite 1 česnako skiltelę, įmeskite lauro lapą, čiobrelius, supilkite vyną ir kaitinkite apie 5 minutes. Kai išgaruos alkoholis, garuose turi nebesijausti aitraus kvapo. Tada suberkite miltus, išmaišykite ir po minutės supilkite jautienos sultinį, įberkite druskos ir pipirų. Virkite sriubą dar 20 minučių. Įkaitinkite orkaitę ir nustatykite grilio funkciją. Sriubą išpilstykite į indelius, apibarstykite tarkuotu sūriu bei rozmarinais ir pakaitinkite orkaitėje, kol išsilydys sūris. Patiekite su skrudintu prancūzišku batonu.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXc_2Rgz9OfqFRpQkgUPlNi-R933T21jWog&usqp=CAU"
+    },
+    {
+        "id": "82" ,
+        "title": "Bulvių apkepas" ,
+        "country": "Prancūzija" ,
+        "ingredients": [
+            "Bulvės 1 kg",
+            "Sviestas 5 šaukštai",
+            "Svogūnas 1 vnt",
+            "Česnakai 3 skiltelės",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Grūdėtosios garstyčios 1 šaukštas",
+            "Muskato riešutai 0.5 šaukštelio",
+            "Kietasis sūris 6 šaukštai",
+            "Grietinėlė (neriebi) 2 puodeliai"
+        ],
+        "instructions": "Orkaitę įkaitinkite iki 180 laipsnių. Sviestu ištepkite kepimo indą. Kitame puode ištirpinkite likusį sviestą ir sudėkite gana smulkiai pjaustytą svogūną. Apkepkite 4-5 minutes. Įdėkite išspaustą česnaką ir dar kepkite apie 1 minutę. Sudėkite gastyčias, suberkite prieskonius ir išmaišykite. Supilkite grietinėlę, suberkite plonai pjaustytas bulves ir išmaišykite. Virkite apie 5 minutes. Supilkite bulves su padažu į paruoštą kepimo indą, išlyginkite ir užberkite smulkiai tarkuotu sūriu. Kepkite orkaitėje apie 30 minučių.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjgL7naMTAUDREgSCAxbdKE-G9Q2LykYRvw&usqp=CAU"
+    },
+    {
+        "id": "83" ,
+        "title": "Provanso troškinys" ,
+        "country": "Prancūzija" ,
+        "ingredients": [
+            "Vištienos filė 200 g",
+            "Cukinijos 300 g",
+            "Baklažanai 300 g",
+            "Saldžiosios geltonosios paprikos 100 g",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Pomidorai 4 vnt.",
+            "Česnakai 2 skiltelės",
+            "Čiobreliai 1 šaukštelis",
+            "Šalavijai 1 šaukštelis",
+            "Lauro lapai 4 vnt."
+        ],
+        "instructions": "Vištieną supjaustykite ir apkepkite svieste su prieskoniais, tada suberkite į puodą. Supjaustykite cukinijas, baklažaną, pomidorus, paprikas ir suberkite į puodą. Įpilkite vandens tiek, kad tik apsemtų daržoves. Įberkite Provanso žolelių mišinio: čiobrelių, šalavijo ir lauro lapų. Įmeskite sutraiškytų česnako skiltelių. Virkite uždengus dangtį ant mažos ugnies apie valandą. Vis pamaišykite. Prieš baigiant virti įberkite druskos ir pipirų.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5cjMgmheWT0FCf3PP9k3MLA8tRPKLEksjg&usqp=CAU"
+    },
+    {
+        "id": "84" ,
+        "title": "Paryžietiškas FLANAS" ,
+        "country": "Prancūzija" ,
+        "ingredients": [
+            "Miltai 200 g",
+            "Cukrus 100 g",
+            "Kiaušiniai 4 vnt.",
+            "Pienas 1 l",
+            "Sviestas 30 g",
+            "Vanilinis cukrus 2 šaukšteliai"
+        ],
+        "instructions": "Miltus sumaišykite su cukrumi ir vaniliniu cukrumi. Įmuškite kiaušinius, išmaišykite. Supilkite ištirpintą sviestą ir išmaišykite. Maišant supilkite pieną ir labai gerai išmaišykite. Kepimo formą gausiai ištepkite sviestu ir supilkite tešlą. Kepkite 45 minutes iki 190 - 200 laipsnių įkaitintoje orkaitėje.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm2eMZWi3yUV1ChXmwg6sU_bvk2wdtfg145Q&usqp=CAU"
+    },
+    {
+        "id": "85" ,
+        "title": "PHAD THAI su vištiena" ,
+        "country": "Tailandas" ,
+        "ingredients": [
+            "Vištienos filė (arba kiaulienos) 400 g",
+            "Baltagūžiai kopūstai 200 g",
+            "Kiaušiniai 2 vnt.",
+            "Ryžių makaronai 1 pakelis",
+            "PHAD THAI WOK padažas 2 pakeliai",
+            "Aliejus 2 šaukštai",
+            "Saldaus aitriųjų paprikų padažas",
+            "Laimo vaisių sultys"
+        ],
+        "instructions": "Paruoškite ryžių makaronus. Vištienos juosteles pakepkite kiniškoje keptuvėje arba ant grotelių, sudėkite susmulkintą kopūstą. Sumažinkite ugnį, kai vištiena gražiai paruduos. Sudėkite ryžių makaronus, įmaišykite PHAD THAI WOK padažą ir išplaktus kiaušinius. Pakaitinkite. Iš karto patiekite su saldžiu aitriųjų paprikų padažu, įspauskite žaliųjų citrinų sulčių.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Z2TeVacq4vhhKeR11AI0ewU6KB_SDphW0Q&usqp=CAU"
+    },
+    {
+        "id": "86" ,
+        "title": "Tom Kha sriuba su daržovėmis" ,
+        "country": "Tailandas" ,
+        "ingredients": [
+            "Vanduo 600 ml",
+            "Vištienos filė 400 g",
+            "Kiaušinių makaronai 1 pakelis",
+            "Aliejus 1 šaukštas",
+            "Tom Kha sriubos prieskonių mišinys 1 pakelis",
+            "Kokosų pienas 400 ml",
+            "Daržovės (porai, morkos, špinatai) 300 g",
+            "Kalendros šviežios 2 saujos"
+        ],
+        "instructions": "Išvirkite makaronus ir greitai perliekite juos šaltu vandeniu, kad nesuliptų. Padėkite į šalį. Pakepkite aliejuje susmulkintą vištieną ir porus. Prieskonių mišinį, supilkite vandenį, kokosų pieną ir pakaitinkite. Sudėkite likusias daržoves ir troškinkite apie 5 minutes. Patiekdami sudėkite makaronus ir susmulkintas kalendras.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcXW21wQimGlfIZAzecgx2ltqLLZVhpsqPw&usqp=CAU"
+    },
+    {
+        "id": "87" ,
+        "title": "Vištienos salotos su vaisiais",
+        "country": "Tailandas" ,
+        "ingredients": [
+            "Vištienos filė 200 g",
+            "Mangai 1 vnt.",
+            "Greipfrutai 1 vnt.",
+            "Aliejus 2 šaukštai",
+            "Granatai 1 vnt",
+            "Lapinės salotos 100 g",
+            "Santa Maria imbiero ir citrinžolės padažas Wok 1 pakelis"
+        ],
+        "instructions": "Vištieną supjaustykite juostelėmis. Įkaitintame aliejuje pakepkite vištienos juosteles apie 3–4 min., kol jos gražiai paruduos. Įpilkite padažo Wok ir kepkite dar tiek pat laiko, kol vištiena iškeps. Nuplaukite salotų lapus šaltu vandeniu ir nusausinkite. Vaisius supjaustykite. Patiekite salotų lapus su kepta vištiena ir kitais salotų ingredientais.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uNIoKibgk_hT8dsB4fNqet9TEt1fK7UVAw&usqp=CAU"
+    },
+    {
+        "id": "88" ,
+        "title": "Ryžių pudingas su mangais" ,
+        "country": "Tailandas" ,
+        "ingredients": [
+            "Ryžiai jasmine 200 ml",
+            "Vanduo 300 ml",
+            "Kokosų pieno kremas 200 ml",
+            "Cukrus 50 ml",
+            "Mangai 2 vnt.",
+            "Druska 1 šaukštelis",
+            "Mėtos žiupsnelis"
+        ],
+        "instructions": "Palikite ryžius pastovėti 3 valandas, kad išbrinktų, arba geriau net visai nakčiai. Po to, žemoje temperatūroje uždengtame puode virkite juos apie 15 minučių. Vėliau supilkite kokosų pieno kremą, įdėkite cukraus ir druskos. Palikite ryžius atvėsti 30 minučių. Nuskuskite ir supjaustykite mangus ir pabarstykite mėtų lapeliais. Patiekite susliuoksniavę kartu su ryžiais.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-p6gjDGZMi6pc-M3yr26EPRper7ByuH_kWQ&usqp=CAU"
+    },
+    {
+        "id": "89" ,
+        "title": "Naminiai kebabai su vištiena ir sūriu" ,
+        "country": "Turkija" ,
+        "ingredients": [
+            "Vištienos filė 800 g",
+            "Graikiškas jogurtas 400 g",
+            "Fermentinis sūris 200 g",
+            "Kininis kopūstas 0.5 vnt.",
+            "Pomidorai 3 vnt.",
+            "Agurkai 2 vnt.",
+            "Krapai pagal skonį",
+            "Česnakai pagal skonį",
+            "Majonezas 5 šaukštai",
+            "Svogūnai 1 vnt",
+            "Druska pagal skonį",
+            "Tortilijos 5 vnt."
+        ],
+        "instructions": " Vištienos filė, supjaustytą juostelėmis, dėkite į įkaitintą aliejų keptuvėje. Suberkite smulkiai pjaustytus svogūnus, o prieš baigiant kepti įpilkite graikiško jogurto (apie 200 g). Vištieną apiberkite mėgstamais prieskoniais ir uždengus dangčiu patroškinkite kelias minutes. Kitame inde paruoškite padažą. Likusį graikišką jogurtą sumaišykite su džiovintais krapais, druska ir tarkuotais arba išspaustais česnakais ir gerai išmaišykite. Susitarkuokite fermentinį sūrį ir agurkus (nuo agurkų nuspauskite sultis). Kopūstą ir pomidorą susmulkinkite. Visas daržoves sudėkite į vieną indą ir užbarstykite šiek tiek druskos. Tortilijas ištepkite majonezu, dėkite sluoksniais sūrį, daržoves, vištieną ir užpilkite padažo, sulankstykite. Kepkite 180 laipsnių orkaitėje apie 15 minučių.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9L4RylECfxNJWpcZEKSwYO9puuYUnOATZg&usqp=CAU"
+    },
+    {
+        "id": "90" ,
+        "title": "Piemenų sriuba" ,
+        "country": "Turkija" ,
+        "ingredients": [
+            "Kiaušiniai 1 vnt.",
+            "Jogurtas 450 g",
+            "Sviestas 2 šaukštai",
+            "Miltai 2 šaukštai",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Mėtos (džiovintos) 2 šaukštai",
+            "Ryžiai 1 stiklinė",
+            "Žalumynai"
+        ],
+        "instructions": "Ryžius užpilkite 3 stiklinėmis šalto vandens, kai užvirs, įberkite druskos, sumažinkite liepsną ir virkite 20 – 25 min. Kiaušinį išplakite, paskui plakdami supilkite jogurtą, stiklinę vandens, suberkite miltus. Į mišinį įpilkite šiek tiek ryžių nuoviro, išmaišykite galiausiai sudėkite ryžius su puse nuoviro ir išmaišykite. Masę iš dubens supilkite į puodą su ryžiais. Kai užvirs, iš karto nukaiskite. Įpilkite aliejaus, suberkite mėtas, įberkite druskos ir pipirų. Uždenkite puodą ir palikite pastovėti 5 min. Patiekite su žalumynais ir paplotėliais.",
+        "imageUrl": "https://g.dcdn.lt/images/pix/jogurto-sriuba-61252211.jpg"
+    },
+    {
+        "id": "91" ,
+        "title": "Jautiena lavaše" ,
+        "country": "Turkija" ,
+        "ingredients": [
+            "Jautiena 600 g",
+            "Lavašas 4 vnt.",
+            "Alyvuogių aliejus 1 šlakelis",
+            "Raudonėliai 1 žiupsnelis",
+            "Citrinų sultys 1 šaukštas",
+            "Špinatai 160 g",
+            "Raudonieji svogūnai 0.25 vnt.",
+            "Kedro riešutai 1 šaukštas",
+            "Konservuoti pomidorai 0.5 stiklinės",
+            "Česnakai 1 skiltelė",
+            "Bazilikai 1 žiupsnelis",
+            "Balzaminis actas 1 šaukštelis"
+        ],
+        "instructions": "Jautieną smulkiai supjaustykite. Įkaitinkite didelę keptuvę ir joje apkepkite mėsą. Suberkite susmulkintus raudonėlius ir supilkite citrinų sultis. Leiskite mėsai šiek tiek ataušti. Lavašus iš vienos pusės ištepkite pomidorų padažu. Jam pasigaminti smulkintuvu suplakite konservuotus pomidorus, česnaką, baziliko lapelius ir balazaminį actą. Tada išdėliokite špinatų lapus, žiedais supjaustytą svogūną ir mėsos gabalėlius. Ant viršaus pabarstykite kedrų riešutais.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5L3o7oO5Kw8-TlvJob9cDnQYe6aHo-x9Pg&usqp=CAU"
+    },
+    {
+        "id": "92" ,
+        "title": "Turkiškas keksas" ,
+        "country": "Turkija" ,
+        "ingredients": [
+            "Cukrus 1,5 stiklinės",
+            "Kiaušiniai 4 vnt.",
+            "Saulėgrąžų aliejus 0,5 stiklinės",
+            "Natūralus jogurtas 1,5 stiklinės",
+            "Vanilinis cukrus 1 pakelis",
+            "Miltai 2-3 stiklinės",
+            "Kepimo milteliai 1 šaukštelis",
+            "Razinos 1 sauja",
+            "Džiovinti abrikosai 1 sauja",
+            "Graikiši riešutai 1 sauja"
+        ],
+        "instructions": "Kiaušinius išplakti su cukrumi, supilti aliejų, jogurtą, suberti vanilinį cukrų, miltus, sumaišytus su kepimo milteliais. Sumaišyti tešlą. Sukrėsti karštame vandenyje nuplikytas razinas, džiovintus abrikosus. Suberti smulkintus riešutus. Kepti apie 30 min. 180 laipsnių karščio orkaitėje. Ataušusį keksą papuošti cukraus pudra.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIXsk1xO30qacfS0tQLBIJmdH-YD6f0KTWIw&usqp=CAU"
+    },
+    {
+        "id": "93" ,
+        "title": "Kijevo kotletai su džiovintų baravykų įdaru" ,
+        "country": "Ukraina" ,
+        "ingredients": [
+            "Vištienos krūtinėlių filė 2 vnt.",
+            "Džiovinti baravykai 1 sauja",
+            "Svogūnas 1 vnt",
+            "Sviestas 80 g",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Malti džiūvėsėliai 50 g",
+            "Kiaušiniai 1 vnt.",
+            "Aliejus kepimui 200 ml"
+        ],
+        "instructions": "Pirmiausia paruoškite įdarą. Džiovintus baravykus užplikinkite verdančiu vandeniu ir pamirkykite valandą. Paskui pavirkite pusvalandį. Nukoškite ir sumalkite. Svogūną pakepinkite svieste, įpusėjus kepti, sudėkite grybus. Pagardinkite druska ir pipirais. Vištienos krūtinėlių filė išmuškite, pasūdykite ir pabarstykite pipirais. Ant vidurio dėkite šaukštą grybų įdaro. Kraštus užvyniokite taip, kad jie visiškai uždengtų įdarą. Pavilgykite plaktame kiaušinyje, tada džiūvėsėliuose, vėl kiaušiniuose ir vėl džiūvėsėliuose. Paruoštus kotletus kepkite gerai įkaitintame aliejuje 3-5 minutes, paskui dar kelias minutes pakepkite orkaitėje.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2iKRdOfc5Zk-wFUgKS24vVFvC7dl_TqaTQ&usqp=CAU"
+    },
+    {
+        "id": "94" ,
+        "title": "Ukrainietiški barščiai" ,
+        "country": "Ukraina" ,
+        "ingredients": [
+            "Kiauliena 250 g",
+            "Burokėliai 250 g",
+            "Svogūnas 1 vnt",
+            "Baltagūžiai kopūstai 350 g",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Bulvės 400 g",
+            "Morkos 2 vnt.",
+            "Petražolių šaknys 1 vnt.",
+            "Česnakai 2 skiltelės",
+            "Pomidorų pasta 80 g",
+            "Miltai 1 šaukštas",
+            "Lašinukai (smulkiai supjaustyti) 1 šaukštas",
+            "Cukrus 1 šaukštas",
+            "Actas 1 šaukštelis",
+            "Džiovintos saldžiosios paprikos 2 šaukštai",
+            "Lauro lapai 1 vnt.",
+            "Krapai žiupsnelis"
+        ],
+        "instructions": "Mėsą supjaustykite mažais gabaliukais, užpilkite šaltu pasūdytu vandeniu ir virkite, kol suminkštės. Sudėkite supjaustytus burokėlius, pomidorų pastą, actą ir dar patroškinkite. Morkas, petražolės šaknį ir svogūną smulkiai supjaustykite ir truputį pakepinkite. Bulves supjaustykite kubeliais, kopūstus - šiaudeliais ir suberkite į sriubą. Pagardinkite druska ir pipirais. Pavirkite 20 min, tada sudėkite troškintas daržoves. Baigiant virti, supilkite vandenyje išleistus miltus ir gerai išmaišykite. Jeigu norite, įpilkite šlakelį acto. Prieš pat pateikiant į sriubą suberiamas smulkiai kapotas česnakas, lašinukai, susmulkintos petražolės, krapai ir dar kartą užvirinama.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2jxQ-VWaly4SN0ggJhHuBDJuwYPO7HSOng&usqp=CAU"
+    },
+    {
+        "id": "95" ,
+        "title": "Veršienos kukuliai" ,
+        "country": "Ukraina" ,
+        "ingredients": [
+            "Veršienos faršas 500 g",
+            "Sviestas 50 g",
+            "Kiaušiniai 1 vnt.",
+            "Batonas 100 g",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Petražolės žiupsnelis"
+        ],
+        "instructions": "Faršą sumaišyti su kiaušiniu, įtarkuoti batono, įdėti sviesto, kapotų petražolių, druskos, pipirų. Suformuoti kukulius ir išvirti pasūdytame vandenyje arba garuose. Patiekti su virtomis bulvėmis arba ankštinėmis pupelėmis bei aštriu pomidorų padažu.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZKwhc_lyUsXNUFNL_S3rHi4UVLn2DFxf6w&usqp=CAU"
+    },
+    {
+        "id": "96" ,
+        "title": "Povidlianka - keksas su uogiene" ,
+        "country": "Ukraina" ,
+        "ingredients": [
+            "Cukrus 50 g",
+            "Kiaušiniai 5 vnt.",
+            "Manų kruopos 200 g",
+            "Riešutai 100 g",
+            "Uogienė 650 g",
+            "Sviestas 20 g",
+            "Romas 50 ml"
+        ],
+        "instructions": "Atskirti kiaušinių baltymus nuo trynių. Trynius ištrinti iki baltumo su puse cukraus, sudėti pertrintą vaisinę (geriausiai obuolių arba kriaušių) uogienę, supilti romą, manų kruopas, gerai išmaišyti, sudėti iki standumo išplaktus kiaušinių baltymus. Gautą masę supilti į išteptą riebalais kepimo formą, pabarstyti likusiu cukrumi, kapotais riešutais ir apie 30",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwSQ6MlULDNBUnqiaJuVQSlf-4Fc1MKWlB7w&usqp=CAU"
+    },
+    {
+        "id": "97" ,
+        "title": "Kapitono Tenkešo guliašas" ,
+        "country": "Vengrija" ,
+        "ingredients": [
+            "Jautienan500 g",
+            "Miltai 2 šaukštai",
+            "Svogūnas 1 vnt",
+            "Morkos 4 vnt.",
+            "Lauro lapai 2 vnt.",
+            "Druska pagal skonį",
+            "Juodieji malti pipirai pagal skon",
+            "Česnakai 3 skiltelės",
+            "Paprikos milteliai 1 šaukštas",
+            "Kmynai pagal skonį",
+            "Savo sultyse konservuoti pomidorai 400 g",
+            "Sultinys 500 ml",
+            "Aliejus"
+        ],
+        "instructions": "Mėsą supjaustykite plonais gabaliukais, apibarstykite druska bei pipirais ir apvolioję miltuose apskrudinkite įkaitintame aliejuje. Kitoje keptuvėje aliejuje pakepinkite svogūną ir česnaką. Sudėkite morkas, kai pageltonuos – pomidorus savose sultyse, įberkite kmynų, druskos, pipirų, paprikos ir laurų lapus. Daržoves ir mėsą sudėkite į puodą, užpilkite sultiniu ir troškinkite virš silpnos ugnies apie valandą. Patiekite su karštais makaronais arba bulvėmis.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7APGnCBPlk90by52IRl4rpOFnsJGGmMiFQ&usqp=CAU"
+    },
+    {
+        "id": "98" ,
+        "title": "Vengriškas viščiukas" ,
+        "country": "Vengrija" ,
+        "ingredients": [
+            "Vištų ketvirčiai 4 vnt.",
+            "Česnakai 3 skiltelės",
+            "Svogūnas 1 vnt",
+            "Miltai 3 šaukštai",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Rūkytų paprikų milteliai 1 šaukštas",
+            "Vištienos sultinys 1.5 puodelio",
+            "Pomidorai 4 vnt."
+        ],
+        "instructions": "Vištų ketvirčius perpjaukite pusiau, pabarstykite druska ir pipirais. Apkepkite iš abiejų pusių aliejuje po 7 minutes. Vištieną išimkite, suberkite smulkiai pjaustytus svogūnus ir juos apkepkite. Sudėkite išspaustus česnakus ir kepkite maišant dar 3 minutes. Suberkite miltus, paprikų miltelius, pipirus, druską ir gerai išmaišykite. Maišant supilkite sultinį ir sudėkite smulkiai pjaustytus pomidorus be odelių. Palaukite kol padažas užvirs ir sudėkite vištieną. Uždenkite keptuvę dangčiu ir troškinkite apie 20 minučių.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbXQ23d9_gwhdXQ9UPRkCa1ILsrog2wsZA1w&usqp=CAU"
+    },
+    {
+        "id": "99" ,
+        "title": "Vengriška pievagrybių sriuba" ,
+        "country": "Vengrija" ,
+        "ingredients": [
+            "Pievagrybiai 600 g",
+            "Sultinys 600 ml",
+            "Svogūnas 1 vnt",
+            "Pienas 200 ml",
+            "Pipirai pagal skonį",
+            "Druska pagal skonį",
+            "Grietinė 100 g",
+            "Sviestas 40 g",
+            "Krapai 1 sauja",
+            "Sojos padažas 2 šaukštai",
+            "Maltos raudonosios paprikos 2 šaukšteliai"
+        ],
+        "instructions": "Svogūnus supjaustyti smulkiais kubeliais. Pievagrybius nuvalyti ir supjaustyti riekelėmis.	Puode ištirpinti sviestą. Pakepinti svogūnus kelias minutes, kol suminkštės. Sudėti pievagrybius, pagardinti druska, paprika ir pipirais, kepinti, kol suminkštės ir šiek tiek susileis. Užpilti sultiniu, pienu ir pagardinti sojos padažu. Užvirinti, sumažinti kaitrą, uždengti. Virti apie 15 minučių. Grietinę išmaišyti su maždaug 100 ml karšto sriubos skysčio. Supilti atgal į sriubą. Įspausti citrinos sultis.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGh9pUxg_jRNEZO_V4y46MpKJ0n1XFDQbFuQ&usqp=CAU"
+    },
+    {
+        "id": "100" ,
+        "title": "Varškės pyragėliai" ,
+        "country": "Vengrija" ,
+        "ingredients": [
+            "Citrinos žievelė 1 šaukštelis",
+            "Cukrus 2-3 šaukštai",
+            "Kiaušiniai 3 vnt.",
+            "Miltai 150 g",
+            "Pienas 200 ml",
+            "Druska truputis",
+            "Vanduo truputis",
+            "Varškė 150-200 g"
+        ],
+        "instructions": "Tešla: Iš miltų, 2 kiaušinių, šaukštelio cukraus, druskos, pieno ir trupučio vandens užminkoma tešla. Ji 1,5 val. palaikoma. Paskui iš jos padaromi pyragėliai (12 vnt.), vadinamų palatšinkenais, kurie iškepami keptuvėje. Varškė pertrinama per sietą, sumaišoma su tryniu, druska, cukrumi, citrinos žievele. Įpilama pieno arba grietinėlės. Atskirai išplakami baltymai. Viskas sumaišoma. Ant dalies paruoštų palatšinkenų uždedama varškės, ant viršaus užvožiami kiti palatšinkenai.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmS4gwhY11YXiE5Bf4Y807RjijLLKW-T2Bag&usqp=CAU"
+    },
+    {
+        "id": "101" ,
+        "title": "Grogas" ,
+        "country": "Anglija" ,
+        "ingredients": [
+            "Juodoji arbata 200 ml",
+            "Tamsus romas 50 ml",
+            "Medus 1 šaukštelis",
+            "Citrinos 4 riekelės",
+            "Cinamonas 2 žiupsneliai"
+        ],
+        "instructions": "Arbatžoles ir cinamoną užpilkite karštu vandeniu ir palaukite 5 minutes. Supilkite romą, įdėkite medaus ir išmaišykite. Gėrimą supilstykite į puodelius ir įdėkite citrinos griežinėlių.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgY4Nng_h4ziMVWjzd70HQ82pqF9cpfxc86g&usqp=CAU"
+    },
+    {
+        "id": "102" ,
+        "title": "Zabaglione" ,
+        "country": "Italija" ,
+        "ingredients": [
+            "Kiaušiniai 3 vnt.",
+            "Cukrus 2šaukštai",
+            "Kakava 1 šaukštelis",
+            "Kava ristretto 1 puodelis",
+            "Mėtos 1 šakelė"
+        ],
+        "instructions": "Į indą sudėkite nuo baltymų atskirtus kiaušinių trynius ir cukrų. Plakite iki tirštos masės apie 10 minučių. Kai jau atrodys, kad jau gana – plakite dar 10 minučių. Į puodelį įpilkite truputį kavos (ristretto) ir užpilkite kremu. Apibarstykite kakava ir papuoškite šviežia mėta. Gogel mogel giminaitis iš Italijos paruoštas.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyoLvKD71_uDr6ynTh-4ZIzeOs84t3eGxng&usqp=CAU"
+    },
+    {
+        "id": "103",
+        "title": "Karštas meksikietiškas šokoladas",
+        "country": "Meksika" ,
+        "ingredients": [
+            "Pienas 2 stiklinės",
+            "Šokoladas 100 g",
+            "Cinamono lazdelės 3 vnt.",
+            "Vanilės ekstraktas 1 šaukštas"
+        ],
+        "instructions": "Į nedidelį puodą supilkite pieną, užkaiskite ant vidutinio karštumo viryklės. Įdėkite cinamono lazdeles, sutrupintą šokoladą. Maišykite ir kaitinkite, kol ištirps šokoladas. Išimkite iš pieno cinamono lazdeles, supilkite į pieną vanilės ekstraktą, užvirinkite. Nukaiskite puodą nuo viryklės, išplakite jo turinį. Karštą šokoladą išpilstykite į puodelius ir iš karto patiekite.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQnC_iu9qZ5XU3x4atm-CH5-oup915khh1g&usqp=CAU"
+    },
+    {
+        "id": "104" ,
+        "title": "„Submarino“" ,
+        "country": "Argentina" ,
+        "ingredients": [
+            "Pienas 1 stiklinė",
+            "Juodas šokoladas 50 g"
+        ],
+        "instructions": "Užverdame pieną ir supilame į puodelį. Į karštą pieną dedame šokolado plytelę, maišome, kol visas šokoladas ištirpsta ir mėgaujamės smaližių gėrimu. Štai taip yra patiekiamas ir geriamas karštas šokoladas Argentinoje.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq-6xonTOHMRO_n7NbjNXUe6VXqtyhHtwJhA&usqp=CAU"
+    },
+    {
+        "id": "105" ,
+        "title": "Turkiška kava su prieskoniais" ,
+        "country": "Turkija" ,
+        "ingredients": [
+            "Vanduo 150 ml",
+            "Kava 2 šaukšteliai",
+            "Cukrus 1 šaukštelis",
+            "Cinamonas 1 šaukštelis",
+            "Vanilinis cukrus 1 šaukštelis",
+            "Kardamonas 1 žiupsnelis"
+        ],
+        "instructions": "Į mažą puodą supikite vandenį, kardamoną ir vanilę. Šiek tiek pavirkite. Kai užvirs vanduo su prieskoniais, ugnį išjunkite ir suberkite kavą bei cukrų. Leiskite kelioms minutės kavai sugerti skonius. Po kelių minučių vėl užkaiskite visą kavos mišinį ir virkite iki tol, kol pradės garuoti. Kartokite tai 4 - 5 kartus, kol visame mišinyje nebeliks putų. O jei putų vis dar bus - nugriebkite jas į atskirą puodelį. Visą kavos mišinį palikite kelioms minutėms, kol nusės kava. Tokią kavą reikia gerti karštą.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-2g-3CDoo26vX07YIL6bG7eYWTMj7WMpTA&usqp=CAU"
+    },
+    {
+        "id": "106" ,
+        "title": "Braškinė Margarita" ,
+        "country": "Meksika" ,
+        "ingredients": [
+            "Tekila 60 ml",
+            "Braškės 130 g",
+            "Laimo vaisiai 1 vnt.",
+            "Apelsinų likeris 40 ml",
+            "Ledukai 150 g"
+        ],
+        "instructions": "Taurių kraštą patepkite citrinos skiltele. Į plokščią lėkštelę suberkite cukraus pudros, apverskite taurę ir prispauskite. Braškes nuplaukite, pašalinkite kotelius. Sudėkite į plaktuvą braškes, pusės žaliosios citrinos sultis, tekilą, likerį ir ledą. Suplakite. Supilkite į taures. Šiam kokteiliui galima naudoti žemuoges, abrikosus ir net ananasą.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5B7ZlYCxOMguhYdY3oCX8sMzirxlxMqOOtw&usqp=CAU"
+    },
+    {
+        "id": "107" ,
+        "title": "Caipirinha" ,
+        "country": "Brazilija" ,
+        "ingredients": [
+            "Romas Cachaça 60 g",
+            "Laimo vaisiai 1 vnt.",
+            "Cukrus 2 šaukšteliai",
+            "Ledukai"
+        ],
+        "instructions": "Šio kokteilio pagrindinė sudedamoji dalis yra Cachaça - labai saldus braziliškas romas. Caipirinha kokteiliui galite naudoti įvairius sezoninius vaisius ir jų deriniais. Laimo vaisių perpjaukite pusiau. Vieną pusę supjaustykite į 6 dalis ir sudėkite į plaktuvą. Užberkite 2 šaukšteliais cukraus ir stipriai sumaigykite grūstuvėliu. Supilkite romą, įberkite ledukų ir suplakite. Kokteilį supilkite į šaltą stiklinę, įmeskite dar ledukų ir papuoškite laimo skiltele.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTukHXaI27T7MhYG4XWNL9jWaD3wt893JXXUg&usqp=CAU"
+    },
+    {
+        "id": "108" ,
+        "title": "Kokteilis su Avokadu" ,
+        "country": "Amerika" ,
+        "ingredients": [
+            "Apelsinas 1 vnt.",
+            "Avokadas 1 vnt.",
+            "Bananas 1 vnt.",
+            "Citrinos sultys 1 vnt.",
+            "Petražolės sauja",
+            "Vanduo 1 stiklinė"
+        ],
+        "instructions": "Nulupkite bananą, apelsiną, supjaustykite vaisius kubeliais ir sudėkite juos į trintuvo indą kartu su avokado minkštimu, petražolių lapeliais ir citrinos sultimis. Įpilkite stiklinę vandens ir viską sutrinkite. Kai tik masė taps vienalytė, tirštas, sotus ir skanus kokteilis bus paruoštas.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiQJCrEvAJzJRM4FjrZwEV9oBx4g3X4h4DLQ&usqp=CAU"
+    },
+    {
+        "id": "109" ,
+        "title": "Putojančio vyno kokteilis" ,
+        "country": "Prancūzija" ,
+        "ingredients": [
+            "Džinas 1 šaukštas",
+            "Cukraus kubeliai 1-2",
+            "Citrinos sultys 1 šaukštas",
+            "Putojantis vynas 150 ml"
+        ],
+        "instructions": "Į taurę įpilti džiną, sultis, tada supilti putojantį vyną. Įmesti citrinos griežinėlius. Pateikiant įmesti cukraus kubelius.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxMkOJB3nHkdfRoAmBNpTNSUIDANfC5zGRQ&usqp=CAU"
+    },
+    {
+        "id": "110" ,
+        "title": "Braziliškas limonadas" ,
+        "country": "Brazilija" ,
+        "ingredients": [
+            "1 vidutinis laimo vaisius",
+            "Cukrus 2 arbatiniai šaukšteliai",
+            "Grūsto ledo",
+            "Gazuoto mineralinio vandens"
+        ],
+        "instructions": "Skiltelėmis supjaustome laimą, dedame į stiklinę, suberiame cukrų  ir gerai sugrūdame. Tada iki stiklinės viršaus pripilame ledo ir užpilame mineraliniu vandeniu. Patiekiame su šiaudeliu",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAK4EQK70Zmoq0_kJrWk739d-1sOGv0KY7A&usqp=CAU"
+    },
 ]
 }
  export default Recipe;

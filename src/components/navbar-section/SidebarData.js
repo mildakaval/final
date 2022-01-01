@@ -125,14 +125,14 @@ export const SidebarData = [
         cName: "sub-nav",
       },
       {
-        title: "Norvegija",
-        path: "/countrys/Norvegija",
+        title: "Meksika",
+        path: "/countrys/Meksika",
         icon: <FaIcons.FaFontAwesomeFlag />,
         cName: "sub-nav",
       },
       {
-        title: "Olandija",
-        path: "/countrys/Olandija",
+        title: "Norvegija",
+        path: "/countrys/Norvegija",
         icon: <FaIcons.FaFontAwesomeFlag />,
         cName: "sub-nav",
       },
@@ -194,11 +194,6 @@ export const SidebarData = [
         icon: <FaIcons.FaCocktail />,
       },
     ],
-  },
-  {
-    title: "Sveikuoliams",
-    path: "/health",
-    icon: <GiIcons.GiHealthPotion />,
   },
   {
     title: "Prisijunk/Registruokis",

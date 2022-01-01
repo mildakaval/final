@@ -7,7 +7,6 @@ import {
   Countrys,
 } from "./pages/Countrys";
 import { DrinksMenu } from "./pages/DrinksMenu";
-import Health from "./pages/Health";
 import Join from "./pages/Join";
 import Contacts from "./pages/Contacts";
 import {AppContext} from './components/context/Context';
@@ -21,7 +20,6 @@ function App() {
         <Route path="/about-us" exact component={AboutUs} />
         <Route path="/countrys" exact component={Countrys} />
         <Route path="/drinksMenu" exact component={DrinksMenu} />
-        <Route path="/health" exact component={Health} />
         <Route path="/join" exact component={Join} />
         <Route path="/contacts" exact component={Contacts} />
       </Routes>
