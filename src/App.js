@@ -7,7 +7,7 @@ import {
   Countrys,
 } from "./pages/Countrys";
 import { DrinksMenu } from "./pages/DrinksMenu";
-import Join from "./pages/Join";
+import Join from "./pages/join/Login";
 import Contacts from "./pages/Contacts";
 import {AppContext} from './components/context/Context';
 import Footer from './components/footer/Footer';

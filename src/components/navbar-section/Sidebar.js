@@ -8,7 +8,7 @@ import SubMenu from "./SubMenu";
 import { IconContext } from "react-icons/lib";
   
 const Nav = styled.div`
-  background: black;
+  background: #132C33;
   height: 80px;
   display: flex;
   justify-content: flex-start;
@@ -25,8 +25,8 @@ const NavIcon = styled(Link)`
 `;
   
 const SidebarNav = styled.nav`
-  background: black;
-  width: 250px;
+  background: #132C33;
+  width: 230px;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -48,7 +48,7 @@ const Sidebar = () => {
   
   return (
     <>
-      <IconContext.Provider value={{ color: "red" }}>
+      <IconContext.Provider value={{ color: "#A3D2CA" }}>
         <Nav>
           <NavIcon to="#">
             <FaIcons.FaBars onClick={showSidebar} />
@@ -58,7 +58,7 @@ const Sidebar = () => {
                      marginLeft: "800px", 
                      color: "white" }}
           >
-           <Link to="/" className="sidebar-logo">
+           <Link to="/" style={{ color: '#A3D2CA' }} className="sidebar-logo">
              W!FOOD <i className="fas fa-pepper-hot"></i>
            </Link>
           </h1>

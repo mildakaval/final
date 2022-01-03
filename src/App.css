@@ -9,6 +9,8 @@
   .events,
   .support {
     display: flex;
-    margin-left: 260px;
+    margin-left: 230px;
+    margin-right: 220px;
     font-size: 2rem;
+    background-color: #FFF9F9;
   }
