@@ -4,7 +4,7 @@ import './home.scss';
 
 const Home = () => {
   return (
-    <div className="home">
+    <div className="main">
       <h6>Norint tikrai numesti svorio, pakanka 
         atsikratyti trijų dalykų - pusryčių, pietų ir vakarienės...</h6>
       <h1>Frankas Lloydas Wrightas</h1>

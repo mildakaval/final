@@ -1,6 +1,27 @@
 .contacts{
-width: 300px;
-height: 100px;
-background-color: black;
-margin-top: 10px;
+    height: auto;
+    width: auto;
+    padding-top: 400px;
+    padding-left: 250px;
+    padding-right: 250px;
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    color: #FFF9F9;
+    background: url(http://st.depositphotos.com/2576363/4639/i/450/depositphotos_46392931-Italian-food-background.jpg);
+    background-size: cover;
+
+    h1{
+        padding-bottom: 50px;
+        margin-top: -180px; 
+        font-size: 50px;
+    }
+
+    h4{
+        padding-bottom: 120px;
+        font-size: 23px;
+    }
+    a{
+    color: #A3D2CA;
+    }
 }
