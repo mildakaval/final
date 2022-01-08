@@ -1,0 +1,22 @@
+.home{
+    min-height: 100vh;
+    height: auto;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align:center;
+    color: #132C33;
+    
+    h6 {
+        margin-top: 70px;
+        font-size: 30px;
+    }
+    h1 {
+    font-size: 14px;
+    padding-top: 20px;
+    }
+    p {
+        margin-top: 80px;
+        font-size: 20px;
+    }
+}

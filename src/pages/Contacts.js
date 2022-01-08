@@ -1,9 +1,11 @@
 import React from "react";
-  
-export const Contacts = () => {
+import './contacts.scss';
+
+
+ export const Contacts = () => {
   return (
     <div className="contacts">
-     
+     <p>ffffdfxnffcfgf</p>
     </div>
   );
 };

@@ -1,39 +1,39 @@
 import React from 'react';
 import "./App.css";
-import Sidebar from "./components/navbar-section/Sidebar";
+import Sidebar from "./components/navbar-section/sidebar";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { AboutUs } from "./pages/AboutUs";
+import Home from "./pages/home";
 import {
   Countrys,
-} from "./pages/Countrys";
-import { DrinksMenu } from "./pages/DrinksMenu";
-import Join from "./pages/join/Login";
-import Contacts from "./pages/Contacts";
-import {AppContext} from './components/context/Context';
-import Footer from './components/footer/Footer';
+} from "./pages/countrys";
+import { DrinksMenu } from "./pages/drinks-menu";
+import Login from "./pages/login";
+import Contacts from "./pages/contacts";
+import Footer from './components/footer/footer';
+
 function App() {
   return (
-    <AppContext>
-    <Router>
+    <div className="App">
+      <>
+      <Router>
       <Sidebar />
       <Routes>
-        <Route path="/about-us" exact component={AboutUs} />
-        <Route path="/countrys" exact component={Countrys} />
-        <Route path="/drinksMenu" exact component={DrinksMenu} />
-        <Route path="/join" exact component={Join} />
-        <Route path="/contacts" exact component={Contacts} />
+        <Route path="/"element={<Home />} />
+        <Route path="/countrys" element={<Countrys />} />
+        <Route path="/drinksMenu" element={<DrinksMenu />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/contacts/" element={<Contacts />} />
       </Routes>
-      <AboutUs />
+      <Home />
       <Countrys />
-      <Footer />
-    </Router>
-    </AppContext>
+     </Router>
+       <Footer />
+    
+    </>
+    </div>
   );
 }
-  
+
 export default App;
 
 
-
-// paieska
-// kontaktai

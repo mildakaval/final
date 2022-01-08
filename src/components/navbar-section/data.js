@@ -5,14 +5,11 @@ import * as IoIcons from "react-icons/io";
 import * as RiIcons from "react-icons/ri";
 import * as BiIcons from "react-icons/bi";
   
-export const SidebarData = [
+export const Data = [
   {
-    title: "Apie mus",
-    path: "/about-us",
+    title: "Pagrindinis",
+    path: "/",
     icon: <FaIcons.FaHome />,
-    iconClosed: <RiIcons.RiArrowDownSFill />,
-    iconOpened: <RiIcons.RiArrowUpSFill />,
-  
   },
   {
     title: "Šalys",
@@ -178,7 +175,6 @@ export const SidebarData = [
     title: "Gėrimų meniu",
     path: "/drinksMenu",
     icon: <BiIcons.BiDrink />,
-  
     iconClosed: <RiIcons.RiArrowDownSFill />,
     iconOpened: <RiIcons.RiArrowUpSFill />,
   
@@ -197,10 +193,11 @@ export const SidebarData = [
   },
   {
     title: "Prisijunk/Registruokis",
-    path: "/join",
+    path: "/login",
     icon: <GiIcons.GiArchiveRegister />,
   },
   {
+  
     title: "Kontaktai",
     path: "/contacts",
     icon: <IoIcons.IoMdContacts />,
