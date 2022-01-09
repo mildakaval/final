@@ -3,9 +3,10 @@ import React from 'react';
 this.state = {
 "recipies":[
     {
-        "id": "1" ,
-        "title": "Amerikietiškas sūrio pyragas" ,
-        "country": "Amerika" ,
+        "id": "1",
+        "category": "main",
+        "title": "Amerikietiškas sūrio pyragas",
+        "country": "Amerika",
         "ingredients": [
             "Miltai 200g",
             "Druska žiupsnelis",
@@ -21,9 +22,10 @@ this.state = {
         "imageUrl": "https://g.dcdn.lt/images/pix/surio-pyragas-61156955.jpg"
     },
     {
-        "id": "2" ,
-        "title": "Hemingvėjaus kiaušiniai" ,
-        "country": "Amerika" ,
+        "id": "2",
+        "category": "main",
+        "title": "Hemingvėjaus kiaušiniai",
+        "country": "Amerika",
         "ingredients": [
             "Kiaušiniai 4 vnt.",
              "Batono skrebučiai 4 vnt.",
@@ -39,9 +41,10 @@ this.state = {
         "imageUrl": ""
     },
     {
-        "id": "3" ,
-        "title": "Vištos sparneliai su medaus ir barbekiu padažu" ,
-        "country": "Amerika" ,
+        "id": "3",
+        "category": "snack",
+        "title": "Vištos sparneliai su medaus ir barbekiu padažu",
+        "country": "Amerika",
         "ingredients": [
             "Vištiena 1 kg (sparnelių petelių)",
             "Alyvuogių aliejus 3 valg. š.",
@@ -59,9 +62,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKO9crK4_ZJ4Sjf7NMRFwHCHk4u6VA-qZjEg&usqp=CAU"
     },
     {
-        "id": "4" ,
-        "title": "Šokoladinis amerikietiškas sūrio pyragas" ,
-        "country": "Amerika" ,
+        "id": "4",
+        "category": "dessert",
+        "title": "Šokoladinis amerikietiškas sūrio pyragas",
+        "country": "Amerika",
         "ingredients": [
             "Sūrūs sausainiai 1 pakelis",
             "Sviestas 3 šaukštai",
@@ -78,9 +82,10 @@ this.state = {
         "imageUrl": "https://g1.dcdn.lt/images/pix/1200x470/XUys5eufGBg/sokoladinis-amerikietiskas-surio-pyragas-73257870.jpg"
     },
     {
-        "id": "5" ,
-        "title": "Traški žuvis pagal tradicinį anglų receptą" ,
-        "country": "Anglija" ,
+        "id": "5",
+        "category": "main",
+        "title": "Traški žuvis pagal tradicinį anglų receptą",
+        "country": "Anglija",
         "ingredients": [
             "Menkių filė 8 vnt",
             "Miltai 2 puodeliai",
@@ -95,9 +100,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-PNGluw3obFUFfUb667XPsgtTT11vb94D7w&usqp=CAU"
     },
     {
-        "id": "6" ,
-        "title": "Jorkšyro pudingai" ,
-        "country": "Anglija" ,
+        "id": "6",
+        "category": "snack",
+        "title": "Jorkšyro pudingai",
+        "country": "Anglija",
         "ingredients": [
             "Druska 1 šaukštelis",
             "Miltai 120g",
@@ -109,9 +115,10 @@ this.state = {
         "imageUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/yorkshire-pudding-recipe-1582043801.jpg"
     },
     {
-        "id": "7" ,
-        "title": "Angliškosios kryžiaus bandelės" ,
-        "country": "Anglija" ,
+        "id": "7",
+        "category": "snack",
+        "title": "Angliškosios kryžiaus bandelės",
+        "country": "Anglija",
         "ingredients": [
             "Sausos mielės 1 šaukštelis",
             "Sviestas 4 šaukštai",
@@ -127,9 +134,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUL_Vf1qD7rdg5eZpWgynqz56bJL1VlU07NQ&usqp=CAU"
     },
     {
-        "id": "8" ,
-        "title": "Purus obuolių pudingas" ,
-        "country": "Anglija" ,
+        "id": "8",
+        "category": "dessert",
+        "title": "Purus obuolių pudingas",
+        "country": "Anglija",
         "ingredients": [
             "Razinos 50 g",
             "Sviestas 240 g",
@@ -149,9 +157,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbP9eLOK4PHJZ8h305mUHg9g-Gwiudp4bsrA&usqp=CAU"
     },
     {
-        "id": "9" ,
-        "title": "Ypatingas kukurūzų troškinys" ,
-        "country": "Argentina" ,
+        "id": "9",
+        "category": "main",
+        "title": "Ypatingas kukurūzų troškinys",
+        "country": "Argentina",
         "ingredients": [
             "Kukurūzai 1 vnt.",
             "Moliūgas (mažas) 1 vnt.",
@@ -168,9 +177,10 @@ this.state = {
         "imageUrl": "https://g1.dcdn.lt/images/pix/1200x470/_OIh89_fPfs/sotus-kukuruzu-troskinys-65258844.jpg"
     },
     {
-        "id": "10" ,
-        "title": "Argentinietiški šoninės suktinukai" ,
-        "country": "Argentina" ,
+        "id": "10",
+        "category": "snack",
+        "title": "Argentinietiški šoninės suktinukai",
+        "country": "Argentina",
         "ingredients": [
             "Šaltai rūkyta šoninė 0.5 kg",
             "Duona skrudinimui 12 riekelės",
@@ -183,9 +193,10 @@ this.state = {
         "imageUrl": "https://g1.dcdn.lt/images/pix/1200x470/SHKgF-AlnLE/sonines-suktinukas-65237371.jpg"
     },
     {
-        "id": "11" ,
-        "title": "Didieji jautienos kepsniai su viskio padažu" ,
-        "country": "Argentina" ,
+        "id": "11",
+        "category": "main",
+        "title": "Didieji jautienos kepsniai su viskio padažu",
+        "country": "Argentina",
         "ingredients": [
             "Jautienos nugarinė 350 g",
             "Alyvuogių aliejus truputis",
@@ -206,9 +217,10 @@ this.state = {
         "imageUrl": "https://images.squarespace-cdn.com/content/v1/579bd3a2197aea7c6b7aa2e2/1481929164004-R9KPQJ5MRSUL7I8G7W28/ARGENTINIAN+STEAKHOUSE+with+chimichurri"
     },
     {
-        "id": "12" ,
-        "title": "Bananų sklindžiai" ,
-        "country": "Argentina" ,
+        "id": "12",
+        "category": "dessert",
+        "title": "Bananų sklindžiai",
+        "country": "Argentina",
         "ingredients": [
             "Vanilės ekstraktas 1 šaukštelis",
             "Cukraus pudra 1 šaukštas",
@@ -222,9 +234,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SD9lobUpgVXGMAxLGoHubZTcNnSFFMc98Q&usqp=CAU"
     },
     {
-        "id": "13" ,
-        "title": "Avienos šašlykas" ,
-        "country": "Armėnija" ,
+        "id": "13",
+        "category": "main",
+        "title": "Avienos šašlykas",
+        "country": "Armėnija",
         "ingredients": [
             "Aviena 1 kg",
             "Svogūnų laiškai 1 sauja",
@@ -242,9 +255,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3pml9lGG5X-qb0ERXVPQJO6WsZOXtKVi-Bw&usqp=CAU"
     },
     {
-        "id": "14" ,
-        "title": "Armėniška ėriena" ,
-        "country": "Armėnija" ,
+        "id": "14",
+        "category": "main",
+        "title": "Armėniška ėriena",
+        "country": "Armėnija",
         "ingredients": [
             "Ėrienos filė 250 g",
             "Garstyčios 50 g",
@@ -263,9 +277,10 @@ this.state = {
         "imageUrl": "https://img.delicious.com.au/EESoc8MW/w759-h506-cfill/del/2018/08/pistachio-and-lemon-crusted-lamb-backstraps-84604-4.jpg"
     },
     {
-        "id": "15" ,
-        "title": "Naminis lavašas" ,
-        "country": "Armėnija" ,
+        "id": "15",
+        "category": "snack",
+        "title": "Naminis lavašas",
+        "country": "Armėnija",
         "ingredients": [
             "Sausų mielių 5 g",
             "Miltai truputėlis",
@@ -278,9 +293,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3E-JzKoZeqgByuT3-D7H1HZO1y7C4Q5tcwg&usqp=CAU"
     },
     {
-        "id": "16" ,
-        "title": "Baklava" ,
-        "country": "Armėnija" ,
+        "id": "16",
+        "category": "dessert",
+        "title": "Baklava",
+        "country": "Armėnija",
         "ingredients": [
             "Filo tešla 450 g (pakelio)",
             "Riešutai 300 g (mėgstamų mišinys)",
@@ -296,9 +312,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihaQIkZLPVjJ3-fksOvEDuIvoGBcX4COGhQ&usqp=CAU"
     },
     {
-        "id": "17" ,
-        "title": "Midijos su fetos sūriu" ,
-        "country": "Belgija" ,
+        "id": "17",
+        "category": "snack",
+        "title": "Midijos su fetos sūriu",
+        "country": "Belgija",
         "ingredients": [
             "Midijos 1 kg",
             "Svogūnai 1 vnt.",
@@ -316,9 +333,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyecoxC1kqujifVC-K6-qEUl7BlYDINnXwcA&usqp=CAU"
     },
     {
-        "id": "18" ,
-        "title": "Belgiškas grybų omletas" ,
-        "country": "Belgija" ,
+        "id": "18",
+        "category": "main",
+        "title": "Belgiškas grybų omletas",
+        "country": "Belgija",
         "ingredients": [
             "Grybai 250 g",
             "Miltai 4 šaukštai",
@@ -335,9 +353,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2-kXB4HfOROxvEPndixgsmM_uOECRy0mhEg&usqp=CAU"
     },
     {
-        "id": "19" ,
-        "title": "Belgiškai ruošti smidrai" ,
-        "country": "Belgija" ,
+        "id": "19",
+        "category": "snack",
+        "title": "Belgiškai ruošti smidrai",
+        "country": "Belgija",
         "ingredients": [
             "Žalieji šparagai 250 g",
             "Citrinų sultys vnt.",
@@ -352,9 +371,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIddS32fsLFpl5xU5bJ7KaOjLzdi_VpravVA&usqp=CAU"
     },
     {
-        "id": "20" ,
-        "title": "Belgiški vafliai" ,
-        "country": "Belgija" ,
+        "id": "20",
+        "category": "dessert",
+        "title": "Belgiški vafliai",
+        "country": "Belgija",
         "ingredients": [
             "Pienas 600 ml",
             "Miltai 4 stiklinės",
@@ -368,9 +388,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRwJSx3nRYogw7lvjHm6wb3NOF8Cfgpp1MGw&usqp=CAU"
     },
     {
-        "id": "21" ,
-        "title": "Braziliškos vištienos salotos" ,
-        "country": "Brazilija" ,
+        "id": "21",
+        "category": "salad",
+        "title": "Braziliškos vištienos salotos",
+        "country": "Brazilija",
         "ingredients": [
             "Vištienos filė 0.5 kg",
             "Konservuoti žirneliai 0.5 puodelio",
@@ -389,8 +410,9 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSSnTzhdqXctxjMuIeWJSwrsTQx0Bck2nAkA&usqp=CAU"
     },
     {
-        "id": "22" ,
-        "title": "Braziliška sūrio duona" ,
+        "id": "22",
+        "category": "snack",
+        "title": "Braziliška sūrio duona",
         "country": "Brazilija" ,
         "ingredients": [
             "Miltai 170 g",
@@ -404,9 +426,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0f_xPNav85MVqleAs3d8QJUZK_jypBQJHg&usqp=CAU"
     },
     {
-        "id": "23" ,
-        "title": "Žuvienė su kokosų pienu" ,
-        "country": "Brazilija" ,
+        "id": "23",
+        "category": "soup",
+        "title": "Žuvienė su kokosų pienu",
+        "country": "Brazilija",
         "ingredients": [
             "Kokosų pienas 400 ml",
             "Menkė 300 g",
@@ -423,9 +446,10 @@ this.state = {
         "imageUrl": "https://domesticgothess.com/wp-content/uploads/2019/02/vegan-tofu-moqueca.jpg"
     },
     {
-        "id": "24" ,
-        "title": "Kondensuoto pieno pyragas" ,
-        "country": "Brazilija" ,
+        "id": "24",
+        "category": "dessert",
+        "title": "Kondensuoto pieno pyragas",
+        "country": "Brazilija",
         "ingredients": [
             "Kondensuotas pienas 400 ml",
             "Pienas 800 ml",
@@ -438,9 +462,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdOQnG4v-komvs88pMOrtAT9pQc54NbXY_zQ&usqp=CAU"
     },
      {
-        "id": "25" ,
-        "title": "Graikiškos salotos su tunu" ,
-        "country": "Graikija" ,
+        "id": "25",
+        "category": "salad",
+        "title": "Graikiškos salotos su tunu",
+        "country": "Graikija",
         "ingredients": [
             "Fetos sūris 50 g",
             "Alyvuogių aliejus 1 šaukštas",
@@ -456,9 +481,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2oyrvsPB2fe9CDGB6V7pLaOsdCL9BAOJVLw&usqp=CAU"
     },
     {
-        "id": "26" ,
-        "title": "Graikiškas ėrienos troškinys" ,
-        "country": "Graikija" ,
+        "id": "26",
+        "category": "main",
+        "title": "Graikiškas ėrienos troškinys",
+        "country": "Graikija",
         "ingredients": [
             "Ėrienos kumpis 800 g",
             "Ropės 200 g",
@@ -473,9 +499,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJFaNlIMKBvf7tO01rH96u8gtKlCdoW4HjA&usqp=CAU"
     },
     {
-        "id": "27" ,
-        "title": "Keptos bulvės" ,
-        "country": "Graikija" ,
+        "id": "27",
+        "category": "snack",
+        "title": "Keptos bulvės",
+        "country": "Graikija",
         "ingredients": [
             "Bulvės  8 vnt.",
             "Aliejus 5 šaukštai",
@@ -489,9 +516,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOnOUKh8sKuL6WKcDxM8MWGIKkbsyqWJdhRA&usqp=CAU"
     },
     {
-        "id": "28" ,
-        "title": "Saldus graikiškas omletas" ,
-        "country": "Graikija" ,
+        "id": "28",
+        "category": "dessert",
+        "title": "Saldus graikiškas omletas",
+        "country": "Graikija",
         "ingredients": [
             "Miltai 8 šaukštai",
             "Aliejus 1 šaukštas",
@@ -509,9 +537,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8NBYq0OLw7Mmgjv-8he5tFAV3jaxs7e8g5Q&usqp=CAU"
     },
     {
-        "id": "29" ,
-        "title": "Chačapuri su vištiena" ,
-        "country": "Gruzija" ,
+        "id": "29",
+        "category": "main",
+        "title": "Chačapuri su vištiena",
+        "country": "Gruzija",
         "ingredients": [
             "Miltai 2.5 puodelio",
             "Sausos mielės 2 šaukšteliai",
@@ -527,9 +556,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm1hhw4lU6WuOcbvNv2mlf1lXs7toVpy5U2w&usqp=CAU"
     },
     {
-        "id": "30" ,
-        "title": "Viščiukas TABAKA" ,
-        "country": "Gruzija" ,
+        "id": "30",
+        "category": "main",
+        "title": "Viščiukas TABAKA",
+        "country": "Gruzija",
         "ingredients": [
             "Viščiukas 1 vnt.",
             "Raudonas sausas vynas 200 ml",
@@ -546,9 +576,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeZaaxrMei7lcjFiGCb7J9enbTkBlvjRdzXA&usqp=CAU"
     },
     {
-        "id": "31" ,
-        "title": "Adžika" ,
-        "country": "Gruzija" ,
+        "id": "31",
+        "category": "snack",
+        "title": "Adžika",
+        "country": "Gruzija",
         "ingredients": [
             "Pomidorai 2.5 kg",
             "Saldžiosios raudonosios paprikos 1 kg",
@@ -564,9 +595,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOXTvbUKTRfb97xBGSiqvbRzGCGNMlCBHE1Q&usqp=CAU"
     },
     {
-        "id": "32" ,
-        "title": "Čurčchela" ,
-        "country": "Gruzija" ,
+        "id": "32",
+        "category": "dessert",
+        "title": "Čurčchela",
+        "country": "Gruzija",
         "ingredients": [
             "Sultys (vynuogių, obuolių ar kt.) 1 l",
             "Graikiniai riešutai 500 g",
@@ -577,9 +609,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxxIpSisopTu7XA4AC3YDP0QPt0sd5T-qfjw&usqp=CAU"
     },
     {
-        "id": "33" ,
-        "title": "Indiškas krevečių troškinys „JHALFREZI“" ,
-        "country": "Indija" ,
+        "id": "33",
+        "category": "main",
+        "title": "Indiškas krevečių troškinys „JHALFREZI“",
+        "country": "Indija",
         "ingredients": [
             "Krevetės 250 g",
             "Pomidorų pasta stiklinė",
@@ -599,9 +632,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl9qNvEoSX19dFQPqWv98STNQuFinLe8VwEQ&usqp=CAU"
     },
     {
-        "id": "34" ,
-        "title": "Indiški kukuliai su smulkinta vištiena" ,
-        "country": "Indija" ,
+        "id": "34",
+        "category": "main",
+        "title": "Indiški kukuliai su smulkinta vištiena",
+        "country": "Indija",
         "ingredients": [
             "Indiškų prieskonių mišinys 1 pakelis",
             "Smulkinta vištiena 500 g",
@@ -616,9 +650,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5mTBZKHzMmXh3MZN9ouhdTn-2B5LprNQwAg&usqp=CAU"
     },
     {
-        "id": "35" ,
-        "title": "Indiška lęšių sriuba su daržovėmis" ,
-        "country": "Indija" ,
+        "id": "35",
+        "category": "soup",
+        "title": "Indiška lęšių sriuba su daržovėmis",
+        "country": "Indija",
         "ingredients": [
             "Lęšiai 200 g",
             "Vanduo 2 l",
@@ -639,9 +674,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv84vK3kv8-IzcfUmKOFacmR8t_xO7HWo8yg&usqp=CAU"
     },
     {
-        "id": "36" ,
-        "title": "Indiški cinamoniniai ledai" ,
-        "country": "Indija" ,
+        "id": "36",
+        "category": "dessert",
+        "title": "Indiški cinamoniniai ledai",
+        "country": "Indija",
         "ingredients": [
             "Pienas 1 l",
             "Cukrus 70 g",
@@ -651,9 +687,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcTg7KoSfkstpur7JSzYR38BGP-MlH6736yA&usqp=CAU"
     },
     {
-        "id": "37" ,
-        "title": "Lašišos sevičė" ,
-        "country": "Ispanija" ,
+        "id": "37",
+        "category": "snack",
+        "title": "Lašišos sevičė",
+        "country": "Ispanija",
         "ingredients": [
             "Lašišos filė 800 g",
             "Laimas 2 vnt.",
@@ -666,9 +703,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPMLPDDvWTTOMUO8Asv14AHFZzUY4YtALtQ&usqp=CAU"
     },
     {
-        "id": "38" ,
-        "title": "Greitai paruošiama paelja" ,
-        "country": "Ispanija" ,
+        "id": "38",
+        "category": "main",
+        "title": "Greitai paruošiama paelja",
+        "country": "Ispanija",
         "ingredients": [
             "Greito paruošimo ilgagrūdžiai baltieji ryžiai 2 stiklinės",
             "Moliuskai (smulkūs) 700 g",
@@ -688,9 +726,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQrTkcNgvcz21R1XOWjlQHUaQk1Tf896Rrjw&usqp=CAU"
     },
     {
-        "id": "39" ,
-        "title": "Ispaniška česnakinė sriuba" ,
-        "country": "Ispanija" ,
+        "id": "39",
+        "category": "soup",
+        "title": "Ispaniška česnakinė sriuba",
+        "country": "Ispanija",
         "ingredients": [
             "Prancūziškas batonas 2 riekelės",
             "Kiaušiniai 2 vnt.",
@@ -705,9 +744,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH0cFT1vHh69_qEJn1eEXE_TUyTc1vGP6x5Q&usqp=CAU"
     },
     {
-        "id": "40" ,
-        "title": "Natilla" ,
-        "country": "Ispanija" ,
+        "id": "40",
+        "category": "dessert",
+        "title": "Natilla",
+        "country": "Ispanija",
         "ingredients": [
             "Pienas 1 l",
             "Kiaušinių tryniai 5 vnt.",
@@ -720,9 +760,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjCMq-4QE5XsJnmhNTw_TdIzqEfyjSC31XNg&usqp=CAU"
     },
     {
-        "id": "41" ,
-        "title": "Itališka daržovių sriuba „Minestrone“" ,
-        "country": "Italija" ,
+        "id": "41",
+        "category": "soup",
+        "title": "Itališka daržovių sriuba „Minestrone“",
+        "country": "Italija",
         "ingredients": [
             "Vištienos sparneliai 8 vnt.",
             "Bulvės 200 g",
@@ -742,9 +783,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmkZrA6k4W5ecPAT8Ii6NaRp5CT_TpZO_4RA&usqp=CAU"
     },
     {
-        "id": "42" ,
-        "title": "Itališka duona su alyvuogėmis" ,
-        "country": "Italija" ,
+        "id": "42",
+        "category": "snack",
+        "title": "Itališka duona su alyvuogėmis",
+        "country": "Italija",
         "ingredients": [
             "Miltai 1 kg",
             "Vanduo 600 ml",
@@ -758,9 +800,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZsdHBMB4oowpCfuwUlamNp_XJ-ytIyyxB5w&usqp=CAU"
     },
     {
-        "id": "43" ,
-        "title": "Brokolių ir špinatų sriuba" ,
-        "country": "Italija" ,
+        "id": "43",
+        "category": "soup",
+        "title": "Brokolių ir špinatų sriuba",
+        "country": "Italija",
         "ingredients": [
             "Brokoliai 1 vnt.",
             "Špinatai 100 g",
@@ -775,9 +818,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24XgZ2G3HVmU0Y38stVk9CBIhRbVfxfuyXw&usqp=CAU"
     },
     {
-        "id": "44" ,
-        "title": "Panakota su braškėmis ir vynuogių ledukais" ,
-        "country": "Italija" ,
+        "id": "44",
+        "category": "dessert",
+        "title": "Panakota su braškėmis ir vynuogių ledukais",
+        "country": "Italija",
         "ingredients": [
             "Pienas 100 ml",
             "Grietinėlė riebi 300 ml",
@@ -791,9 +835,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGYeI1zbUmtNkKje2DIG4ujD7MGM0Zy6qgXw&usqp=CAU"
     },
     {
-        "id": "45" ,
-        "title": "Ramenas su antiena" ,
-        "country": "Japonija" ,
+        "id": "45",
+        "category": "soup",
+        "title": "Ramenas su antiena",
+        "country": "Japonija",
         "ingredients": [
             "„Ramen noodles“ makaronai 1 pakelis",
             "Antienos sultinys (galite keisti kitu sultiniu) 1 l",
@@ -812,9 +857,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSokTSwt-PYfpO42pU4tNex5CUnjtlcyHL-Kw&usqp=CAU"
     },
     {
-        "id": "46" ,
-        "title": "Traški vištiena japoniškai" ,
-        "country": "Japonija" ,
+        "id": "46",
+        "category": "snack",
+        "title": "Traški vištiena japoniškai",
+        "country": "Japonija",
         "ingredients": [
             "Vištienos filė 500 g",
             "Sakė 1 šaukštas",
@@ -828,9 +874,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO9oHqhkuAnzaukQSWhKjGL-x-nlhSlparFQ&usqp=CAU"
     },
     {
-        "id": "47" ,
-        "title": "Japoniškos agurkų salotos" ,
-        "country": "Japonija" ,
+        "id": "47",
+        "category": "salad",
+        "title": "Japoniškos agurkų salotos",
+        "country": "Japonija",
         "ingredients": [
             "Agurkai 500 g",
             "Sojos padažas 50 ml",
@@ -844,9 +891,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeWqr9fMj7YbIXZGIb7x-Qqk4T-dt4Lv7F-w&usqp=CAU"
     },
     {
-        "id": "48" ,
-        "title": "Japoniškas obuolių-aguonų pyragas" ,
-        "country": "Japonija" ,
+        "id": "48",
+        "category": "dessert",
+        "title": "Japoniškas obuolių-aguonų pyragas",
+        "country": "Japonija",
         "ingredients": [
             "Obuoliai 600 g",
             "Kiaušiniai 8 vnt.",
@@ -862,9 +910,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGUwWlRdBp4hRdKT2sKi43tYUC6xF1jcSdcA&usqp=CAU"
     },
     {
-        "id": "49" ,
-        "title": "Kung Pao troškinys" ,
-        "country": "Kinija" ,
+        "id": "49",
+        "category": "main",
+        "title": "Kung Pao troškinys",
+        "country": "Kinija",
         "ingredients": [
             "Mmėgstama mėsa 400 g",
             "Sojos padažas 2 šaukštai",
@@ -879,9 +928,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWtDmMsjFdvQZKguPKxmXpOAJXiERlEwfi_w&usqp=CAU"
     },
     {
-        "id": "50" ,
-        "title": "Džiovinta kiniška jautiena" ,
-        "country": "Kinija" ,
+        "id": "50",
+        "category": "snack",
+        "title": "Džiovinta kiniška jautiena",
+        "country": "Kinija",
         "ingredients": [
             "Jautienos išpjova 1.5 kg",
             "Sojos padažas stiklinė",
@@ -897,9 +947,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJqRcKvdzsqeZDBO_AA3DwBsN_UMK6e5jFZg&usqp=CAU"
     },
     {
-        "id": "51" ,
-        "title": "Kiniška žuvis" ,
-        "country": "Kinija" ,
+        "id": "51",
+        "category": "main",
+        "title": "Kiniška žuvis",
+        "country": "Kinija",
         "ingredients": [
             "Žuvies filė  800 g",
             "Slyviniai pomidorai 6 vnt.",
@@ -917,9 +968,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAYBYWIQO8uhWhdkEzGEaocP9f6t976rFfjA&usqp=CAU"
     },
     {
-        "id": "52" ,
-        "title": "" ,
-        "country": "Kinija" ,
+        "id": "52",
+        "category": "dessert",
+        "title": "Kepti bananai",
+        "country": "Kinija",
         "ingredients": [
             "Bananai 4 vnt.",
             "Miltai 80 g",
@@ -936,9 +988,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSttxUf5XHHAH7QTCTcc_OTiwmtgxJQxYXd6g&usqp=CAU"
     },
     {
-        "id": "53" ,
-        "title": "Kolumbietiška pusryčių sriuba" ,
-        "country": "Kolumbija" ,
+        "id": "53",
+        "category": "soup",
+        "title": "Kolumbietiška pusryčių sriuba",
+        "country": "Kolumbija",
         "ingredients": [
             "Vanduo 2 puodeliai",
             "Piena 2 puodeliai",
@@ -958,9 +1011,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ_5Ef2S2ozZ4nGge0SJCgjdCEFYzWyFAtoA&usqp=CAU"
     },
     {
-        "id": "54" ,
-        "title": "Kreminė avokadų sriuba" ,
-        "country": "Kolumbija" ,
+        "id": "54",
+        "category": "soup",
+        "title": "Kreminė avokadų sriuba",
+        "country": "Kolumbija",
         "ingredients": [
             "Sviestas 1 šaukštas",
             "Svogūnai susmulkinti puodelis",
@@ -978,9 +1032,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv5db2nnQwFXB37eb1aaTv33xs0PBkNHScUA&usqp=CAU"
     },
     {
-        "id": "55" ,
-        "title": "Pikantiški kolumbietiški ryžiai su kokoso pienu" ,
-        "country": "Kolumbija" ,
+        "id": "55",
+        "category": "snack",
+        "title": "Pikantiški kolumbietiški ryžiai su kokoso pienu",
+        "country": "Kolumbija",
         "ingredients": [
             "Ryžiai 2 puodeliai",
             "Kokosų pienas 200 ml",
@@ -993,9 +1048,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_3p-7zHXWnAtN_Qa-pvvp0jM8ohWpBBqNCA&usqp=CAU"
     },
     {
-        "id": "56" ,
-        "title": "Kolumbietiškas kavos pudingas" ,
-        "country": "Kolumbija" ,
+        "id": "56",
+        "category": "dessert",
+        "title": "Kolumbietiškas kavos pudingas",
+        "country": "Kolumbija",
         "ingredients": [
             "Pienas 3 stiklinės",
             "Cinamono lazdelės 1 vnt",
@@ -1011,9 +1067,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ303xljdDWabg45xrmNQOQTPwRIbmowrvtIA&usqp=CAU"
     },
     {
-        "id": "57" ,
-        "title": "Avokadų ir mangų salotos" ,
-        "country": "Kosta Rika" ,
+        "id": "57",
+        "category": "salad",
+        "title": "Avokadų ir mangų salotos",
+        "country": "Kosta Rika",
         "ingredients": [
             "Avokadai 1 vnt.",
             "Mangai 1 vnt.",
@@ -1027,9 +1084,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr69FTj0PEIH4mfMHnbT9aBZyBBEnC2Pdiuw&usqp=CAU"
     },
     {
-        "id": "58" ,
-        "title": "Gallo Pinto" ,
-        "country": "Kosta Rika" ,
+        "id": "58",
+        "category": "snack",
+        "title": "Gallo Pinto",
+        "country": "Kosta Rika",
         "ingredients": [
             "Ryžiai 200 g",
             "Pupelės (raudonos arba juodos) 160 g",
@@ -1045,9 +1103,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyZkx4Wjo0mzXmI0Qt-aPZb2Fh7bB0jDKoag&usqp=CAU"
     },
     {
-        "id": "59" ,
-        "title": "Kukurūziniai blyneliai" ,
-        "country": "Kosta Rika" ,
+        "id": "59",
+        "category": "snack",
+        "title": "Kukurūziniai blyneliai",
+        "country": "Kosta Rika",
         "ingredients": [
             "Kukurūzai švieži 4 puodeliai",
             "Pienas puodelis",
@@ -1060,9 +1119,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3TcAAHs3jyuuxIY8wCCWPoQv_B1OMkAW2zQ&usqp=CAU"
     },
     {
-        "id": "60" ,
-        "title": "Purus razinų pyragas" ,
-        "country": "Kosta Rika" ,
+        "id": "60",
+        "category": "dessert",
+        "title": "Purus razinų pyragas",
+        "country": "Kosta Rika",
         "ingredients": [
             "Kukurūzų miltai 1 šaukštas",
             "Kava 1 stiklinė",
@@ -1081,9 +1141,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsin2RyU_79S4NRU3DX99CwbVkm3hP0f1D7Q&usqp=CAU"
     },
     {
-        "id": "61" ,
-        "title": "Raugintų kopūstų troškinys" ,
-        "country": "Lenkija" ,
+        "id": "61",
+        "category": "main",
+        "title": "Raugintų kopūstų troškinys",
+        "country": "Lenkija",
         "ingredients": [
             "Rauginti kopūstai 600 g",
             "Baltagūžiai kopūstai 400 g",
@@ -1103,9 +1164,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJE4hj62LPkGqwIPecP-EqSMG8w7QinxNNA&usqp=CAU"
     },
     {
-        "id": "62" ,
-        "title": "Lenkiški virtinukai TINGINIUKAI" ,
-        "country": "Lenkija" ,
+        "id": "62",
+        "category": "main",
+        "title": "Lenkiški virtinukai TINGINIUKAI",
+        "country": "Lenkija",
         "ingredients": [
             "Bulvės 300 g",
             "Varškė 200 g",
@@ -1118,9 +1180,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoCucEaeCtOsI0okODJ9VW0e2-ig3H39eLQg&usqp=CAU"
     },
     {
-        "id": "63" ,
-        "title": "Greitai marinuoti svogūnai" ,
-        "country": "Lenkija" ,
+        "id": "63",
+        "category": "snack",
+        "title": "Greitai marinuoti svogūnai",
+        "country": "Lenkija",
         "ingredients": [
             "Rausvieji svogūnai (arba paprastų svogūnų) 600 g",
             "Citrinos 2 vnt.",
@@ -1131,9 +1194,10 @@ this.state = {
         "instructions": "Svogūnus supjaustykite pusžiedžiais ir išskirstykite. Sudėkite į sandariai uždaromą indą. Citrinas supjaustykite stambiomis riekelėmis, užspauskite sultis ant svogūnų, citrinas sudėkite kartu. Pilkite aliejų, actą, berkite druskos. Indelį uždarykite, papurtykite ir kelioms valandoms dėkite į šaldytuvą. Prieš patiekiant išimkite citrinas.",
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZcSu0gkTjSvB4u8ZnbsM0KyYyH2Np1Yrb8w&usqp=CAU"
     },  {
-        "id": "64" ,
-        "title": "Mazurek" ,
-        "country": "Lenkija" ,
+        "id": "64",
+        "category": "dessert",
+        "title": "Mazurek",
+        "country": "Lenkija",
         "ingredients": [
             "Miltai 1.5 stiklinės",
             "Cukrus 1 stiklinė",
@@ -1147,9 +1211,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmBnTTNcQ6Ai2GL7B2yx0IL1AE8T95dX-ZyQ&usqp=CAU"
     },
     {
-        "id": "65" ,
-        "title": "Cepelinai su grybais žemaitiškai" ,
-        "country": "Lietuva" ,
+        "id": "65",
+        "category": "main",
+        "title": "Cepelinai su grybais žemaitiškai",
+        "country": "Lietuva",
         "ingredients": [
             "Bulvės 1 kg",
             "Grybai 1 puodelis",
@@ -1165,9 +1230,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE3P5scxcFxXw2Ye-WCl7e1ZhQFU4yRX1VMg&usqp=CAU"
     },
     {
-        "id": "66" ,
-        "title": "Džiovintais vaisiais įdarytas veršienos kumpis" ,
-        "country": "Lietuva" ,
+        "id": "66",
+        "category": "main",
+        "title": "Džiovintais vaisiais įdarytas veršienos kumpis",
+        "country": "Lietuva",
         "ingredients": [
             "Veršienos kumpis 1.5 kg",
             "Džiovinti abrikosai 200 g",
@@ -1180,9 +1246,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyfCZSTvuBfxHjdahSulmrybZqNXmlMVBOeQ&usqp=CAU"
     },
     {
-        "id": "67" ,
-        "title": "Silkė su spanguolėmis ir riešutais" ,
-        "country": "Lietuva" ,
+        "id": "67",
+        "category": "main",
+        "title": "Silkė su spanguolėmis ir riešutais",
+        "country": "Lietuva",
         "ingredients": [
             "Silkės filė 500 g",
             "Morkos 2 vnt.",
@@ -1196,9 +1263,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4GNmWdXwA1Z7pvgdc2O13aSuYYTIbeyVFA&usqp=CAU"
     },
     {
-        "id": "68" ,
-        "title": "Šokoladinis pyragas puodelyje" ,
-        "country": "Lietuva" ,
+        "id": "68",
+        "category": "dessert",
+        "title": "Šokoladinis pyragas puodelyje",
+        "country": "Lietuva",
         "ingredients": [
             "Miltai 6 šaukštai",
             "Cukrus 6 šaukštai",
@@ -1213,9 +1281,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8O403bogg4aH6J008IQpGOijADNvaDbsDCw&usqp=CAU"
     },
     {
-        "id": "69" ,
-        "title": "Meksikietiška vištiena" ,
-        "country": "Meksika" ,
+        "id": "69",
+        "category": "main",
+        "title": "Meksikietiška vištiena",
+        "country": "Meksika",
         "ingredients": [
             "Česnakai 4 skiltelės",
             "Ghi sviestas 1 šaukštas",
@@ -1230,9 +1299,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0yxZgODwn_zfwvmng7xC89L-sPXkkqVfeog&usqp=CAU"
     },
     {
-        "id": "70" ,
-        "title": "Kesadilija (Quasadilla)su vištiena" ,
-        "country": "Meksika" ,
+        "id": "70",
+        "category": "snack",
+        "title": "Kesadilija (Quasadilla)su vištiena",
+        "country": "Meksika",
         "ingredients": [
             "Vištienos filė 2 vnt.",
             "FAJITA prieskonių mišinys 1 pakelis",
@@ -1248,9 +1318,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT10JBNF9oJ7oi33MiRzzoetK7AFdXWiCL6lw&usqp=CAU"
     },
     {
-        "id": "71" ,
-        "title": "Nachos kukurūzų traškučių užkandis" ,
-        "country": "Meksika" ,
+        "id": "71",
+        "category": "snack",
+        "title": "Nachos kukurūzų traškučių užkandis",
+        "country": "Meksika",
         "ingredients": [
             "Jautienos faršas 400 g",
             "Nachos traškučiai 1 pakelis",
@@ -1268,9 +1339,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT56agXL8lQZHsTnAsGpZgd0Efrur1uLDcTXg&usqp=CAU"
     },
     {
-        "id": "72" ,
-        "title": "Sūrio kremo ir ananasų salsos pyragas" ,
-        "country": "Meksika" ,
+        "id": "72",
+        "category": "dessert",
+        "title": "Sūrio kremo ir ananasų salsos pyragas",
+        "country": "Meksika",
         "ingredients": [
             "Obuoliai 1 vnt.",
             "Kriaušės 1 vnt.",
@@ -1286,9 +1358,10 @@ this.state = {
         "imageUrl": "https://static.wixstatic.com/media/d875bb_5c8c7fc27a76433f9bd9f67dbffe2498~mv2.png"
     },
     {
-        "id": "73" ,
-        "title": "Bulvių ir jūros gėrybių salotos" ,
-        "country": "Norvegija" ,
+        "id": "73",
+        "category": "salad",
+        "title": "Bulvių ir jūros gėrybių salotos",
+        "country": "Norvegija",
         "ingredients": [
             "Bulvės 4 vnt.",
             "Cukinijos 1 vnt.",
@@ -1308,9 +1381,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLroWtEG0MOCkNkgyz2Y3gb4rdDScw2AFsxg&usqp=CAU"
     },
     {
-        "id": "74" ,
-        "title": "Velniažuvė su artišokų piurė ir voveraitėmis" ,
-        "country": "Norvegija" ,
+        "id": "74",
+        "category": "main",
+        "title": "Velniažuvė su artišokų piurė ir voveraitėmis",
+        "country": "Norvegija",
         "ingredients": [
             "Velniažuvės filė 600 g",
             "Lašinukai 40 g",
@@ -1332,9 +1406,10 @@ this.state = {
         "imageUrl": "https://g1.dcdn.lt/images/pix/1200x470/4j3mtm-EOWY/velniazuve-su-artisoku-piure-ir-voveraitemis-64445160.jpg"
     },
     {
-        "id": "75" ,
-        "title": "Lašiša pagal norvegus" ,
-        "country": "Norvegija" ,
+        "id": "75",
+        "category": "main",
+        "title": "Lašiša pagal norvegus",
+        "country": "Norvegija",
         "ingredients": [
             "Lašiša 600 g",
             "Vanduo 4 l",
@@ -1352,9 +1427,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJbtg5UG-sTfoj4rhHzrcJVFgh2uTpGlT-MA&usqp=CAU"
     },
     {
-        "id": "76" ,
-        "title": "Brownie pyragas (norvegiškas)" ,
-        "country": "Norvegija" ,
+        "id": "76",
+        "category": "dessert",
+        "title": "Brownie pyragas (norvegiškas)",
+        "country": "Norvegija",
         "ingredients": [
             "Vanilinis cukrus 8 šaukšteliai",
             "Kiaušiniai 8 vnt.",
@@ -1368,9 +1444,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIHr9-3I1yHPoHXLOOpcdq1tmEB-AvcoJShA&usqp=CAU"
     },
     {
-        "id": "77" ,
+        "id": "77",
+        "category": "snack",
         "title": "Midijos prie vyno",
-        "country": "Portugalija" ,
+        "country": "Portugalija",
         "ingredients": [
             "Midijos konservuotos 200 g",
             "Medus 2 šaukšteliai",
@@ -1382,9 +1459,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKnWxXj8lYyKhjEY3zh9sn3oEUv4XbFfIsFw&usqp=CAU"
     },
     {
-        "id": "78" ,
-        "title": "Keptas jūrų ešerys" ,
-        "country": "Portugalija" ,
+        "id": "78",
+        "category": "main",
+        "title": "Keptas jūrų ešerys",
+        "country": "Portugalija",
         "ingredients": [
             "Ešerys 2 vnt.",
             "Bulvės 8 vnt.",
@@ -1401,9 +1479,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUM5TCxRv_Pje2NX9a-PRTecYxs9-sPAlCkA&usqp=CAU"
     },
     {
-        "id": "79" ,
-        "title": "Virtos strimėlės su svogūnais ir pomidorais" ,
-        "country": "Portugalija" ,
+        "id": "79",
+        "category": "snack",
+        "title": "Virtos strimėlės su svogūnais ir pomidorais",
+        "country": "Portugalija",
         "ingredients": [
             "Strimėlės 1 kg",
             "Rupi jūros druska 200 g",
@@ -1416,9 +1495,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMzS42guDK5uALnClBmtwWoIamdXSn--wbA&usqp=CAU"
     },
     {
-        "id": "80" ,
-        "title": "Migdolų pyragas" ,
-        "country": "Portugalija" ,
+        "id": "80",
+        "category": "dessert",
+        "title": "Migdolų pyragas",
+        "country": "Portugalija",
         "ingredients": [
             "Miltai 1 puodelis",
             "Cukrus 1 puodelis",
@@ -1437,9 +1517,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKBkOnIKizEJYfipUeKHgpy6bPPsHkbj2p-A&usqp=CAU"
     },
     {
-        "id": "81" ,
-        "title": "Svogūnų sriuba" ,
-        "country": "Prancūzija" ,
+        "id": "81",
+        "category": "soup",
+        "title": "Svogūnų sriuba",
+        "country": "Prancūzija",
         "ingredients": [
             "Sviestas 50 g",
             "Čiobrelių šakelės 2 vnt.",
@@ -1459,9 +1540,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWXc_2Rgz9OfqFRpQkgUPlNi-R933T21jWog&usqp=CAU"
     },
     {
-        "id": "82" ,
-        "title": "Bulvių apkepas" ,
-        "country": "Prancūzija" ,
+        "id": "82",
+        "category": "main",
+        "title": "Bulvių apkepas",
+        "country": "Prancūzija",
         "ingredients": [
             "Bulvės 1 kg",
             "Sviestas 5 šaukštai",
@@ -1478,9 +1560,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjgL7naMTAUDREgSCAxbdKE-G9Q2LykYRvw&usqp=CAU"
     },
     {
-        "id": "83" ,
-        "title": "Provanso troškinys" ,
-        "country": "Prancūzija" ,
+        "id": "83",
+        "category": "main",
+        "title": "Provanso troškinys",
+        "country": "Prancūzija",
         "ingredients": [
             "Vištienos filė 200 g",
             "Cukinijos 300 g",
@@ -1498,9 +1581,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa5cjMgmheWT0FCf3PP9k3MLA8tRPKLEksjg&usqp=CAU"
     },
     {
-        "id": "84" ,
-        "title": "Paryžietiškas FLANAS" ,
-        "country": "Prancūzija" ,
+        "id": "84",
+        "category": "dessert",
+        "title": "Paryžietiškas FLANAS",
+        "country": "Prancūzija",
         "ingredients": [
             "Miltai 200 g",
             "Cukrus 100 g",
@@ -1513,9 +1597,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm2eMZWi3yUV1ChXmwg6sU_bvk2wdtfg145Q&usqp=CAU"
     },
     {
-        "id": "85" ,
-        "title": "PHAD THAI su vištiena" ,
-        "country": "Tailandas" ,
+        "id": "85",
+        "category": "main",
+        "title": "PHAD THAI su vištiena",
+        "country": "Tailandas",
         "ingredients": [
             "Vištienos filė (arba kiaulienos) 400 g",
             "Baltagūžiai kopūstai 200 g",
@@ -1530,9 +1615,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_Z2TeVacq4vhhKeR11AI0ewU6KB_SDphW0Q&usqp=CAU"
     },
     {
-        "id": "86" ,
-        "title": "Tom Kha sriuba su daržovėmis" ,
-        "country": "Tailandas" ,
+        "id": "86",
+        "category": "soup",
+        "title": "Tom Kha sriuba su daržovėmis",
+        "country": "Tailandas",
         "ingredients": [
             "Vanduo 600 ml",
             "Vištienos filė 400 g",
@@ -1547,9 +1633,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgcXW21wQimGlfIZAzecgx2ltqLLZVhpsqPw&usqp=CAU"
     },
     {
-        "id": "87" ,
+        "id": "87",
+        "category": "salad",
         "title": "Vištienos salotos su vaisiais",
-        "country": "Tailandas" ,
+        "country": "Tailandas",
         "ingredients": [
             "Vištienos filė 200 g",
             "Mangai 1 vnt.",
@@ -1563,9 +1650,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6uNIoKibgk_hT8dsB4fNqet9TEt1fK7UVAw&usqp=CAU"
     },
     {
-        "id": "88" ,
-        "title": "Ryžių pudingas su mangais" ,
-        "country": "Tailandas" ,
+        "id": "88",
+        "category": "dessert",
+        "title": "Ryžių pudingas su mangais",
+        "country": "Tailandas",
         "ingredients": [
             "Ryžiai jasmine 200 ml",
             "Vanduo 300 ml",
@@ -1579,9 +1667,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-p6gjDGZMi6pc-M3yr26EPRper7ByuH_kWQ&usqp=CAU"
     },
     {
-        "id": "89" ,
-        "title": "Naminiai kebabai su vištiena ir sūriu" ,
-        "country": "Turkija" ,
+        "id": "89",
+        "category": "main",
+        "title": "Naminiai kebabai su vištiena ir sūriu",
+        "country": "Turkija",
         "ingredients": [
             "Vištienos filė 800 g",
             "Graikiškas jogurtas 400 g",
@@ -1600,9 +1689,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA9L4RylECfxNJWpcZEKSwYO9puuYUnOATZg&usqp=CAU"
     },
     {
-        "id": "90" ,
-        "title": "Piemenų sriuba" ,
-        "country": "Turkija" ,
+        "id": "90",
+        "category": "soup",
+        "title": "Piemenų sriuba",
+        "country": "Turkija",
         "ingredients": [
             "Kiaušiniai 1 vnt.",
             "Jogurtas 450 g",
@@ -1618,9 +1708,10 @@ this.state = {
         "imageUrl": "https://g.dcdn.lt/images/pix/jogurto-sriuba-61252211.jpg"
     },
     {
-        "id": "91" ,
-        "title": "Jautiena lavaše" ,
-        "country": "Turkija" ,
+        "id": "91",
+        "category": "main",
+        "title": "Jautiena lavaše",
+        "country": "Turkija",
         "ingredients": [
             "Jautiena 600 g",
             "Lavašas 4 vnt.",
@@ -1639,9 +1730,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5L3o7oO5Kw8-TlvJob9cDnQYe6aHo-x9Pg&usqp=CAU"
     },
     {
-        "id": "92" ,
-        "title": "Turkiškas keksas" ,
-        "country": "Turkija" ,
+        "id": "92",
+        "category": "dessert",
+        "title": "Turkiškas keksas",
+        "country": "Turkija",
         "ingredients": [
             "Cukrus 1,5 stiklinės",
             "Kiaušiniai 4 vnt.",
@@ -1658,9 +1750,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIXsk1xO30qacfS0tQLBIJmdH-YD6f0KTWIw&usqp=CAU"
     },
     {
-        "id": "93" ,
-        "title": "Kijevo kotletai su džiovintų baravykų įdaru" ,
-        "country": "Ukraina" ,
+        "id": "93",
+        "category": "main",
+        "title": "Kijevo kotletai su džiovintų baravykų įdaru",
+        "country": "Ukraina",
         "ingredients": [
             "Vištienos krūtinėlių filė 2 vnt.",
             "Džiovinti baravykai 1 sauja",
@@ -1676,9 +1769,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw2iKRdOfc5Zk-wFUgKS24vVFvC7dl_TqaTQ&usqp=CAU"
     },
     {
-        "id": "94" ,
-        "title": "Ukrainietiški barščiai" ,
-        "country": "Ukraina" ,
+        "id": "94",
+        "category": "soup",
+        "title": "Ukrainietiški barščiai",
+        "country": "Ukraina",
         "ingredients": [
             "Kiauliena 250 g",
             "Burokėliai 250 g",
@@ -1703,9 +1797,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv2jxQ-VWaly4SN0ggJhHuBDJuwYPO7HSOng&usqp=CAU"
     },
     {
-        "id": "95" ,
-        "title": "Veršienos kukuliai" ,
-        "country": "Ukraina" ,
+        "id": "95",
+        "category": "main",
+        "title": "Veršienos kukuliai",
+        "country": "Ukraina",
         "ingredients": [
             "Veršienos faršas 500 g",
             "Sviestas 50 g",
@@ -1719,9 +1814,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZKwhc_lyUsXNUFNL_S3rHi4UVLn2DFxf6w&usqp=CAU"
     },
     {
-        "id": "96" ,
-        "title": "Povidlianka - keksas su uogiene" ,
-        "country": "Ukraina" ,
+        "id": "96",
+        "category": "dessert",
+        "title": "Povidlianka - keksas su uogiene",
+        "country": "Ukraina",
         "ingredients": [
             "Cukrus 50 g",
             "Kiaušiniai 5 vnt.",
@@ -1735,9 +1831,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwSQ6MlULDNBUnqiaJuVQSlf-4Fc1MKWlB7w&usqp=CAU"
     },
     {
-        "id": "97" ,
-        "title": "Kapitono Tenkešo guliašas" ,
-        "country": "Vengrija" ,
+        "id": "97",
+        "category": "main",
+        "title": "Kapitono Tenkešo guliašas",
+        "country": "Vengrija",
         "ingredients": [
             "Jautienan500 g",
             "Miltai 2 šaukštai",
@@ -1757,9 +1854,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7APGnCBPlk90by52IRl4rpOFnsJGGmMiFQ&usqp=CAU"
     },
     {
-        "id": "98" ,
-        "title": "Vengriškas viščiukas" ,
-        "country": "Vengrija" ,
+        "id": "98",
+        "category": "main",
+        "title": "Vengriškas viščiukas",
+        "country": "Vengrija",
         "ingredients": [
             "Vištų ketvirčiai 4 vnt.",
             "Česnakai 3 skiltelės",
@@ -1775,9 +1873,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbXQ23d9_gwhdXQ9UPRkCa1ILsrog2wsZA1w&usqp=CAU"
     },
     {
-        "id": "99" ,
-        "title": "Vengriška pievagrybių sriuba" ,
-        "country": "Vengrija" ,
+        "id": "99",
+        "category": "soup",
+        "title": "Vengriška pievagrybių sriuba",
+        "country": "Vengrija",
         "ingredients": [
             "Pievagrybiai 600 g",
             "Sultinys 600 ml",
@@ -1795,9 +1894,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGh9pUxg_jRNEZO_V4y46MpKJ0n1XFDQbFuQ&usqp=CAU"
     },
     {
-        "id": "100" ,
-        "title": "Varškės pyragėliai" ,
-        "country": "Vengrija" ,
+        "id": "100",
+        "category": "dessert",
+        "title": "Varškės pyragėliai",
+        "country": "Vengrija",
         "ingredients": [
             "Citrinos žievelė 1 šaukštelis",
             "Cukrus 2-3 šaukštai",
@@ -1812,9 +1912,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmS4gwhY11YXiE5Bf4Y807RjijLLKW-T2Bag&usqp=CAU"
     },
     {
-        "id": "101" ,
-        "title": "Grogas" ,
-        "country": "Anglija" ,
+        "id": "101",
+        "category": "hot-drink",
+        "title": "Grogas",
+        "country": "Anglija",
         "ingredients": [
             "Juodoji arbata 200 ml",
             "Tamsus romas 50 ml",
@@ -1826,9 +1927,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgY4Nng_h4ziMVWjzd70HQ82pqF9cpfxc86g&usqp=CAU"
     },
     {
-        "id": "102" ,
-        "title": "Zabaglione" ,
-        "country": "Italija" ,
+        "id": "102",
+        "category": "hot-drink",
+        "title": "Zabaglione",
+        "country": "Italija",
         "ingredients": [
             "Kiaušiniai 3 vnt.",
             "Cukrus 2šaukštai",
@@ -1841,8 +1943,9 @@ this.state = {
     },
     {
         "id": "103",
+        "category": "hot-drink",
         "title": "Karštas meksikietiškas šokoladas",
-        "country": "Meksika" ,
+        "country": "Meksika",
         "ingredients": [
             "Pienas 2 stiklinės",
             "Šokoladas 100 g",
@@ -1853,9 +1956,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQnC_iu9qZ5XU3x4atm-CH5-oup915khh1g&usqp=CAU"
     },
     {
-        "id": "104" ,
-        "title": "„Submarino“" ,
-        "country": "Argentina" ,
+        "id": "104",
+        "category": "hot-drink",
+        "title": "„Submarino“",
+        "country": "Argentina",
         "ingredients": [
             "Pienas 1 stiklinė",
             "Juodas šokoladas 50 g"
@@ -1864,9 +1968,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq-6xonTOHMRO_n7NbjNXUe6VXqtyhHtwJhA&usqp=CAU"
     },
     {
-        "id": "105" ,
-        "title": "Turkiška kava su prieskoniais" ,
-        "country": "Turkija" ,
+        "id": "105",
+        "category": "hot-drink",
+        "title": "Turkiška kava su prieskoniais",
+        "country": "Turkija",
         "ingredients": [
             "Vanduo 150 ml",
             "Kava 2 šaukšteliai",
@@ -1879,9 +1984,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq-2g-3CDoo26vX07YIL6bG7eYWTMj7WMpTA&usqp=CAU"
     },
     {
-        "id": "106" ,
-        "title": "Braškinė Margarita" ,
-        "country": "Meksika" ,
+        "id": "106",
+        "category": "cold-drink",
+        "title": "Braškinė Margarita",
+        "country": "Meksika",
         "ingredients": [
             "Tekila 60 ml",
             "Braškės 130 g",
@@ -1893,9 +1999,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5B7ZlYCxOMguhYdY3oCX8sMzirxlxMqOOtw&usqp=CAU"
     },
     {
-        "id": "107" ,
-        "title": "Caipirinha" ,
-        "country": "Brazilija" ,
+        "id": "107",
+        "category": "cold-drink",
+        "title": "Caipirinha",
+        "country": "Brazilija",
         "ingredients": [
             "Romas Cachaça 60 g",
             "Laimo vaisiai 1 vnt.",
@@ -1906,9 +2013,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTukHXaI27T7MhYG4XWNL9jWaD3wt893JXXUg&usqp=CAU"
     },
     {
-        "id": "108" ,
-        "title": "Kokteilis su Avokadu" ,
-        "country": "Amerika" ,
+        "id": "108",
+        "category": "hot-drink",
+        "title": "Kokteilis su Avokadu",
+        "country": "Amerika",
         "ingredients": [
             "Apelsinas 1 vnt.",
             "Avokadas 1 vnt.",
@@ -1921,9 +2029,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiQJCrEvAJzJRM4FjrZwEV9oBx4g3X4h4DLQ&usqp=CAU"
     },
     {
-        "id": "109" ,
-        "title": "Putojančio vyno kokteilis" ,
-        "country": "Prancūzija" ,
+        "id": "109",
+        "category": "hot-drink",
+        "title": "Putojančio vyno kokteilis",
+        "country": "Prancūzija",
         "ingredients": [
             "Džinas 1 šaukštas",
             "Cukraus kubeliai 1-2",
@@ -1934,9 +2043,10 @@ this.state = {
         "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKxMkOJB3nHkdfRoAmBNpTNSUIDANfC5zGRQ&usqp=CAU"
     },
     {
-        "id": "110" ,
-        "title": "Braziliškas limonadas" ,
-        "country": "Brazilija" ,
+        "id": "110",
+        "category": "hot-drink",
+        "title": "Braziliškas limonadas",
+        "country": "Brazilija",
         "ingredients": [
             "1 vidutinis laimo vaisius",
             "Cukrus 2 arbatiniai šaukšteliai",

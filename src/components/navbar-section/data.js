@@ -39,7 +39,7 @@ export const Data = [
       },
       {
         title: "Armėnija",
-        path: "/countrys/Armėnija",
+        path: "/countrys/Armenija",
         icon: <FaIcons.FaFontAwesomeFlag />,
         cName: "sub-nav",
       },
@@ -105,7 +105,7 @@ export const Data = [
       },
       {
         title: "Kosta Rika",
-        path: "/countrys/Kosta Rika",
+        path: "/countrys/KostaRika",
         icon: <FaIcons.FaFontAwesomeFlag />,
         cName: "sub-nav",
       },
@@ -141,7 +141,7 @@ export const Data = [
       },
       {
         title: "Prancūzija",
-        path: "/countrys/Prancūzija",
+        path: "/countrys/Prancuzija",
         icon: <FaIcons.FaFontAwesomeFlag />,
         cName: "sub-nav",
       },
@@ -190,6 +190,11 @@ export const Data = [
         icon: <FaIcons.FaCocktail />,
       },
     ],
+  },
+  {
+    title: "Paieška",
+    path: "/search",
+    icon: <BiIcons.BiSearchAlt />,
   },
   {
     title: "Prisijunk/Registruokis",
