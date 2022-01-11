@@ -1,0 +1,24 @@
+.drinks{
+    height: auto;
+    width: auto;
+    padding-top: 65px;
+    padding-left: 250px;
+    padding-right: 250px;
+    display: flex;
+    flex-direction: column;
+    text-align: justify;
+    color: #132c33;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd5XBJ8lo4bgdWGYDl_AhL7Hj7D0CA2PWVVQ&usqp=CAU);
+    background-size: cover;
+    
+  
+    h1 {
+    font-size: 50px;
+    padding-top: 40px;
+    }
+    p {
+        margin-top: 73px;
+        font-size: 30px;
+        padding-bottom: 80px;
+    }
+}
