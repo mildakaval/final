@@ -30,6 +30,8 @@ import Turkija from "./pages/turkija";
 import Ukraina from "./pages/ukraina";
 import Vengrija from "./pages/vengrija";
 import { DrinksMenu } from "./pages/drinks-menu";
+import KarstiejiGerimai from "./pages/karstieji-gerimai";
+import SaltiejiGerimai from "./pages/saltieji-gerimai";
 import Search from "./pages/search";
 import Login from "./pages/login";
 import Contacts from "./pages/contacts";
@@ -38,16 +40,12 @@ import Footer from './components/footer/footer';
 function App() {
   return (
     <div className="App">
-      <>
-      <Router>
-      <Sidebar />
-      <Routes>
+  <>
+  <Router>
+   <Sidebar />  
+   <Routes>
         <Route path="/"element={<Home />} />
         <Route path="/countrys" element={<Countrys />} />
-        <Route path="/drinksMenu" element={<DrinksMenu />} />
-        <Route path="/search" element={<Search />} />
-        <Route path="/login" element={<Login />} />
-        <Route path="/contacts/" element={<Contacts />} />
         <Route path="/countrys/amerika/" element={<Amerika />} />
         <Route path="/countrys/anglija/" element={<Anglija />} />
         <Route path="/countrys/argentina/" element={<Argentina />} />
@@ -73,15 +71,20 @@ function App() {
         <Route path="/countrys/turkija/" element={<Turkija />} />
         <Route path="/countrys/ukraina/" element={<Ukraina />} />
         <Route path="/countrys/vengrija/" element={<Vengrija />} />
+        <Route path="/drinksMenu" element={<DrinksMenu />} />
+        <Route path="/drinksMenu/karstiejiGerimai" element={<KarstiejiGerimai />} />
+        <Route path="/drinksMenu/saltiejiGerimai" element={<SaltiejiGerimai />} />
+        <Route path="/search" element={<Search />} />
+        <Route path="/login" element={<Login />} />
+        <Route path="/contacts" element={<Contacts />} />
       </Routes>
-     </Router>
-     
-       <Footer />
-    
-    </>
-    </div>
+   </Router>
+   <Footer />
+   </>
+   </div>
   );
 }
+
 
 export default App;
 

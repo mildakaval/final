@@ -165,7 +165,7 @@ export const Data = [
       },
       {
         title: "Vengrija",
-        path: "/countrys/vengrija",
+        path: "/countrys/Vengrija",
         icon: <FaIcons.FaFontAwesomeFlag />,
         cName: "sub-nav",
       },
@@ -181,12 +181,12 @@ export const Data = [
     subNav: [
       {
         title: "Karštieji gėrimai",
-        path: "/drinksMenu/Karštieji gėrimai",
+        path: "/drinksMenu/KarstiejiGerimai",
         icon: <GiIcons.GiCoffeeMug />,
       },
       {
         title: "Šaltieji gėrimai",
-        path: "/drinksMenu/Šaltieji gėrimai",
+        path: "/drinksMenu/SaltiejiGerimai",
         icon: <FaIcons.FaCocktail />,
       },
     ],

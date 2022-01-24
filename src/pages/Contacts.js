@@ -12,7 +12,7 @@ import './contacts.scss';
        <a href = "mailto: info@worldfood.lt">info@worldfood.lt</a>
        <span><br></br><br></br></span>
        arba skambinkte tel. numeriu:<span><br></br></span>
-       +37063756787
+       +37061111111
      </h4>
     </div>
   );
