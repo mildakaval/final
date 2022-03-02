@@ -8,7 +8,7 @@ const Home = () => {
       <h6>Norint tikrai numesti svorio, pakanka 
         atsikratyti trijų dalykų - pusryčių, pietų ir vakarienės...</h6>
       <h1>Frankas Lloydas Wrightas</h1>
-      <p>Tačiau jei Jums tai nelabai nerūpi, tada pataikėte būtent čia!
+      <p>Tačiau jei Jūs mėgaujatės gyvenimu, tada pataikėte būtent čia!
         WORLD FOOD Jums pristato skanių receptų kampelį iš viso pasaulio.
       </p>
    </div>

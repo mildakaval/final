@@ -1,5 +1,5 @@
 import React from "react";
-import './style.scss';
+import './style.scss'
 
 export const Amerika = () => {
     return (
@@ -10,11 +10,9 @@ export const Amerika = () => {
     beribiuose šiuo žemyno plotuose, besidriekiančiuose nuo Aliaskos iki pat Meksikos ribų. Šios virtuvės maisto 
     gaminimo būdui susiformuoti padėjo valgių paruošimai, kuriuos naudojo pirmieji emigrantai iš Europos. Tais 
     laikais atvykėliai jau naudojo keptuves bei puodus, daugelis amerikietiškų patiekalų troškinami arba kepami iki
-     šiol.</p>
+     šiol.</p> 
     
 </div>
-   
-    );
- 
-};
+      )
+    }
 export default Amerika;

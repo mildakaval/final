@@ -34,6 +34,7 @@ import KarstiejiGerimai from "./pages/karstieji-gerimai";
 import SaltiejiGerimai from "./pages/saltieji-gerimai";
 import Search from "./pages/search";
 import Login from "./pages/login";
+import Register from "./pages/register";
 import Contacts from "./pages/contacts";
 import Footer from './components/footer/footer';
 
@@ -76,6 +77,7 @@ function App() {
         <Route path="/drinksMenu/saltiejiGerimai" element={<SaltiejiGerimai />} />
         <Route path="/search" element={<Search />} />
         <Route path="/login" element={<Login />} />
+        <Route path="/register" element={<Register />} />
         <Route path="/contacts" element={<Contacts />} />
       </Routes>
    </Router>
@@ -83,9 +85,8 @@ function App() {
    </>
    </div>
   );
+ 
 }
 
 
 export default App;
-
-
