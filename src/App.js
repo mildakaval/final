@@ -2,33 +2,34 @@ import React from 'react';
 import "./App.scss";
 import Sidebar from "./components/navbar-section/sidebar";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import RecipeGridPage from "./pages/recipe-grid-page/recipe-grid-page";
 import Home from "./pages/home";
 import { Countrys } from "./pages/countrys";
-import Amerika from "./pages/amerika";
-import Anglija from "./pages/anglija";
-import Argentina from "./pages/argentina";
-import Armenija from "./pages/armenija";
-import Belgija from "./pages/belgija";
-import Brazilija from "./pages/brazilija";
-import Graikija from "./pages/graikija";
-import Gruzija from "./pages/gruzija";
-import Indija from "./pages/indija";
-import Ispanija from "./pages/ispanija";
-import Italija from "./pages/italija";
-import Japonija from "./pages/japonija";
-import Kinija from "./pages/kinija";
-import Kolumbija from "./pages/kolumbija";
-import KostaRika from "./pages/kosta-rika";
-import Lenkija from "./pages/lenkija";
-import Lietuva from "./pages/lietuva";
-import Meksika from "./pages/meksika";
-import Norvegija from "./pages/norvegija";
-import Portugalija from "./pages/portugalija";
-import Prancuzija from "./pages/prancuzija";
-import Tailandas from "./pages/tailandas";
-import Turkija from "./pages/turkija";
-import Ukraina from "./pages/ukraina";
-import Vengrija from "./pages/vengrija";
+import Amerika from "./pages/countrys/amerika";
+import Anglija from "./pages/countrys/anglija";
+import Argentina from "./pages/countrys/argentina";
+import Armenija from "./pages/countrys/armenija";
+import Belgija from "./pages/countrys/belgija";
+import Brazilija from "./pages/countrys/brazilija";
+import Graikija from "./pages/countrys/graikija";
+import Gruzija from "./pages/countrys/gruzija";
+import Indija from "./pages/countrys/indija";
+import Ispanija from "./pages/countrys/ispanija";
+import Italija from "./pages/countrys/italija";
+import Japonija from "./pages/countrys/japonija";
+import Kinija from "./pages/countrys/kinija";
+import Kolumbija from "./pages/countrys/kolumbija";
+import KostaRika from "./pages/countrys/kosta-rika";
+import Lenkija from "./pages/countrys/lenkija";
+import Lietuva from "./pages/countrys/lietuva";
+import Meksika from "./pages/countrys/meksika";
+import Norvegija from "./pages/countrys/norvegija";
+import Portugalija from "./pages/countrys/portugalija";
+import Prancuzija from "./pages/countrys/prancuzija";
+import Tailandas from "./pages/countrys/tailandas";
+import Turkija from "./pages/countrys/turkija";
+import Ukraina from "./pages/countrys/ukraina";
+import Vengrija from "./pages/countrys/vengrija";
 import { DrinksMenu } from "./pages/drinks-menu";
 import KarstiejiGerimai from "./pages/karstieji-gerimai";
 import SaltiejiGerimai from "./pages/saltieji-gerimai";
@@ -47,6 +48,7 @@ function App() {
    <Routes>
         <Route path="/"element={<Home />} />
         <Route path="/countrys" element={<Countrys />} />
+        <Route path="/recipeGridPage" element={<RecipeGridPage />} />
         <Route path="/countrys/amerika/" element={<Amerika />} />
         <Route path="/countrys/anglija/" element={<Anglija />} />
         <Route path="/countrys/argentina/" element={<Argentina />} />

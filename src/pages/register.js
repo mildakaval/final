@@ -3,7 +3,7 @@ import { TextField, Grid } from "@mui/material";
 import { useFormik } from "formik";
 import * as yup from "yup";
 import AuthForm from "../components/auth-form/auth-form";
-import APIService from "../service/api-service";
+import APIService from "../services/api-service";
 
 const validationSchema = yup.object({
   username: yup.string("Vartotojas").required("Laukas yra privalomas"),
