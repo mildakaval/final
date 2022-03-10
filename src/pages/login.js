@@ -25,7 +25,7 @@ const validationSchema = yup.object({
 
       return (  
         
-     <AuthForm
+     <AuthForm 
       title="Prisijunk!"
       linkTo="/register"
       linkTitle="Jei neturite paskyros, užsiregistruokite"

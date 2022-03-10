@@ -38,6 +38,7 @@ import Login from "./pages/login";
 import Register from "./pages/register";
 import Contacts from "./pages/contacts";
 import Footer from './components/footer/footer';
+import NotFoundPage from './pages/not-found-page';
 
 function App() {
   return (
@@ -81,6 +82,7 @@ function App() {
         <Route path="/login" element={<Login />} />
         <Route path="/register" element={<Register />} />
         <Route path="/contacts" element={<Contacts />} />
+        <Route path="*" element={<NotFoundPage />} />
       </Routes>
    </Router>
    <Footer />

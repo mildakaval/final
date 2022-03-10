@@ -26,6 +26,7 @@ const RecipeGridPage = () => {
             category={recipe.category}
             ingredients={recipe.ingredients}
             instructions={recipe.instructions}
+            img={recipe.img}
           ></RecipeGridPageCard>
         ))}
       </RecipeGridPageGrid>
