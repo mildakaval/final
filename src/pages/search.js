@@ -64,7 +64,7 @@ const handleCountryChange =(_, {label: country}) => {
 const handleCategoryChange =(_, {label: category}) => {
   setCategory(category);
 };
-const handleIngredientsChange =(_, {label: ingredients}) => {
+const handleIngredientChange =(_, {label: ingredients}) => {
   setIngredients(ingredients);
 };
 
@@ -118,7 +118,7 @@ const SearchPageContainer = styled(Box)(({ theme }) => ({
               id="ingredients"
               fullWidth
               options={ingredients}
-              onChange={handleIngredientsChange}
+              onChange={handleIngredientChange}
               renderInput={(props) => (
               <TextField 
               {...props} 
