@@ -44,10 +44,29 @@ const categorys = [
   { label: 'Užkandis' }, 
   { label: 'Desertas'},
  ];
-const ingredient = [
+const ingredients = [
   { label: 'Druska' }, 
   { label: 'Miltai' },
+  { label: 'Pipirai' },
+  { label: 'Cukrus' },
+  { label: 'Sviestas' },
 ];
+
+
+const SearchPage = () => {
+ const [country, setCountry] = useState('');
+ const [category, setCategory] = useState('');
+ const [ingredients, setIngredients] = useState('');
+
+const handleCountryChange =(_, {label: country}) => {
+  setCountry(country);
+};
+const handleCategoryChange =(_, {label: category}) => {
+  setCategory(category);
+};
+const handleIngredientsChange =(_, {label: ingredients}) => {
+  setIngredients(ingredients);
+};
 
 const SearchPageContainer = styled(Box)(({ theme }) => ({
   width: '100%',
@@ -56,22 +75,6 @@ const SearchPageContainer = styled(Box)(({ theme }) => ({
   justifyContent: 'center',
   height: `calc(100vh - ${theme.mixins.toolbar[theme.breakpoints.up('sm')].minHeight}px)`,
 }));
-
-
-const SearchPage = () => {
- const [country, setCountry] = useState('');
- const [category, setCategory] = useState('');
- const [ingredient, setIngredient] = useState('');
-
-const handleCountryChange =(_, {label: country}) => {
-  setCountry(country);
-};
-const handleCategoryChange =(_, {label: category}) => {
-  setCategory(category);
-};
-const handleIngredientChange =(_, {label: ingredient}) => {
-  setIngredient(ingredient);
-};
 
   return (
     <SearchPageContainer>
@@ -109,12 +112,13 @@ const handleIngredientChange =(_, {label: ingredient}) => {
               )}
             />
           </Grid>
+
           <Grid item sm={12}>
             <Autocomplete
               id="ingredients"
               fullWidth
-              options={ingredient}
-              onChange={handleIngredientChange}
+              options={ingredients}
+              onChange={handleIngredientsChange}
               renderInput={(props) => (
               <TextField 
               {...props} 
@@ -124,6 +128,7 @@ const handleIngredientChange =(_, {label: ingredient}) => {
             />
           </Grid> 
         </Grid>
+        
         <Box sx={{ display: 'flex', jsutifyContent: 'center', gap: 2 }}>
           <Button 
           style={{
