@@ -15,7 +15,7 @@ const RecipeGridPage = () => {
   }, []);
 
   return (
-    <Box>
+    <Box px={{sm:30, md:30, lg:2, xl:2}}>
       <RecipeGridPageGrid>
         {recipies.map((recipe) => (
           <RecipeGridPageCard

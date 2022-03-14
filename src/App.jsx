@@ -1,8 +1,10 @@
 import React from 'react';
 import "./App.scss";
 import Sidebar from "./components/navbar-section/sidebar";
+import { Provider as ReduxProvider } from "react-redux";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import RecipeGridPage from "./pages/recipe-grid-page/recipe-grid-page";
+import store from "./store";
 import Home from "./pages/home";
 import { Countrys } from "./pages/countrys";
 import Amerika from "./pages/countrys/amerika";
@@ -44,6 +46,7 @@ function App() {
   return (
     <div className="App">
   <>
+  <ReduxProvider store={store}>
   <Router>
    <Sidebar />  
    <Routes>
@@ -85,6 +88,7 @@ function App() {
         <Route path="*" element={<NotFoundPage />} />
       </Routes>
    </Router>
+   </ReduxProvider>
    <Footer />
    </>
    </div>

@@ -3,21 +3,21 @@ import { Box } from '@mui/material';
 
 const RecipeGridPageGrid = styled(Box)(({ theme }) => ({
   display: 'grid',
-  margin: theme.spacing(0),
-  gridTemplateColumns: '1fr',
-  gap: theme.spacing(2),
+  marginLeft: theme.spacing(-4),
+  gridTemplateColumns: '5px',
+  gap: theme.spacing(1),
   [theme.breakpoints.up('sm')]: {
-    gridTemplateColumns: 'repeat(1, 1fr)',
+    gridTemplateColumns: 'repeat(1)',
   },
   [theme.breakpoints.up('md')]: {
-    gridTemplateColumns: 'repeat(1, 1fr)',
+    gridTemplateColumns: 'repeat(1)',
 
   },
   [theme.breakpoints.up('lg')]: {
-    gridTemplateColumns: 'repeat(1, 1fr)',
+    gridTemplateColumns: 'repeat(2, 505px)',
   },
   [theme.breakpoints.up('xl')]: {
-    gridTemplateColumns: 'repeat(1, 1fr)',
+    gridTemplateColumns: 'repeat(2, 505px)',
   },
 }));
 

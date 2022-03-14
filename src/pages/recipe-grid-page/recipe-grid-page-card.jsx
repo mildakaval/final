@@ -21,9 +21,10 @@ const RecipeGridPageCard = ({ id, img, category, title, country, ingredients, in
        border: "2px solid black", 
        borderRadius: "10px",
        boxShadow: "0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23)",
-       width: "750px",
-       ml: "265px",
-       mr: "100px",
+       width: "500px",
+       height: "auto",
+       ml: "165px",
+       mr: "-140px",
        p: "15px"}}>
         <Box>
           <Box onClick={navigateToRecipe}>
