@@ -1,5 +1,6 @@
 import React from 'react';
 import { TextField, Grid } from "@mui/material";
+import logo from './logo.jpg';
 import { useFormik } from "formik";
 import AuthForm from "../components/auth-form/auth-form";
 import * as yup from "yup";
@@ -23,14 +24,18 @@ const validationSchema = yup.object({
     });
 
 
-      return (  
-        
+      return (   
      <AuthForm 
       title="Prisijunk!"
       linkTo="/register"
       linkTitle="Jei neturite paskyros, užsiregistruokite"
       onSubmit={formik.handleSubmit}
-    >
+    > 
+    
+    <div className="logo">
+      <img src={logo} height={120} width={440}/>
+      </div>
+
       <Grid container spacing={2}>
         <Grid item xs={12}>
           <TextField

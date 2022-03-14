@@ -1,11 +1,9 @@
 import React from 'react';
 import {
   Container,
-  Avatar,
   Box,
   Typography,
 } from '@mui/material';
-// import loginImg from './logo.jpg';
 
 import { Link } from 'react-router-dom';
 import Button from './auth-form-button';
@@ -36,7 +34,6 @@ const AuthForm = ({
         alignItems: 'center',
       }}
       >
-        <Avatar src="../logo.jpg" />
         <Typography component="h1" variant="h5">
           {title}
         </Typography>
