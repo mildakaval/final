@@ -8,6 +8,7 @@ import {
   Typography,
   Paper,
 } from '@mui/material';
+import { useNavigate } from 'react-router-dom';
 import { styled } from '@mui/material/styles';
 
 const countrys = [
@@ -44,19 +45,19 @@ const categorys = [
   { label: 'Užkandis' }, 
   { label: 'Desertas'},
  ];
-const ingredients = [
-  { label: 'Druska' }, 
-  { label: 'Miltai' },
-  { label: 'Pipirai' },
-  { label: 'Cukrus' },
-  { label: 'Sviestas' },
-];
+
+const ingredients = [ 'Actas', 'Agurkai', 'Aliejus', 'Alyvuogės', 'Aviena', 'Avokadas', 'Bananai', 'Bazilikai',
+'Braškės', 'Bulvės', 'Cinamonas', 'Citrina', 'Cukrus', 'Česnakas', 'Čili pipirai', 'Druska', 'Figos', 'Garstyčios', 
+'Grietinėlė', 'Grybai', 'Jautiena', 'Kakava', 'Kalendros', 'Kiaušiniai', 'Kokosas', 'Krapai', 'Krevetės', 
+'Kukurūzai', 'Lašiša', 'Medus', 'Midijos', 'Mielės', 'Migdolai', 'Miltai', 'Morkos', 'Muskato riešutas', 
+'Obuoliai', 'Paprika', 'Petražolės', 'Pienas', 'Pipirai', 'Pomidorai', 'Razinos', 'Ryžiai', 'Rozmarinas', 
+'Sūris', 'Svogūnai', 'Šokoladas', 'Šparagai', 'Špinatai', 'Tunas', 'Varškė', 'Vanilinis cukrus', 'Vynas' ];
 
 
 const SearchPage = () => {
  const [country, setCountry] = useState('');
  const [category, setCategory] = useState('');
- const [ingredients, setIngredients] = useState('');
+ const [ingredient, setIngredient] = useState(null);
 
 const handleCountryChange =(_, {label: country}) => {
   setCountry(country);
@@ -64,9 +65,7 @@ const handleCountryChange =(_, {label: country}) => {
 const handleCategoryChange =(_, {label: category}) => {
   setCategory(category);
 };
-const handleIngredientChange =(_, {label: ingredients}) => {
-  setIngredients(ingredients);
-};
+
 
 const SearchPageContainer = styled(Box)(({ theme }) => ({
   width: '100%',
@@ -75,6 +74,22 @@ const SearchPageContainer = styled(Box)(({ theme }) => ({
   justifyContent: 'center',
   height: `calc(100vh - ${theme.mixins.toolbar[theme.breakpoints.up('sm')].minHeight}px)`,
 }));
+
+const navigate = useNavigate();
+
+// const formatFormData = () => {
+//   const [country, category, ingredients] = recipe;
+
+const handleSubmit = (grid) => {
+  let to;
+  switch (grid) {
+case 'grid':
+  to = '/recipe-grid';
+  break;
+  }
+  // const data = formatFormData();
+  //   navigate(to, { state: data });
+};
 
   return (
     <SearchPageContainer>
@@ -118,7 +133,7 @@ const SearchPageContainer = styled(Box)(({ theme }) => ({
               id="ingredients"
               fullWidth
               options={ingredients}
-              onChange={handleIngredientChange}
+              onChange={(_, selectedIngredient) => setIngredient(selectedIngredient)}
               renderInput={(props) => (
               <TextField 
               {...props} 
@@ -136,7 +151,7 @@ const SearchPageContainer = styled(Box)(({ theme }) => ({
             marginLeft: "85px",
             marginTop: "30px",
           }}
-            variant="contained" >Rodyti receptus</Button>
+            variant="contained" onClick={() => handleSubmit('grid')}>Rodyti receptus</Button>
         </Box>
       </Paper>
     </SearchPageContainer>
